@@ -22,87 +22,99 @@ target="@iwaspoisoned_"
 date_list=[]
 tweet_list=[]
 
-public_tweets = api.search(target, count=1500000)
+public_tweets = api.user_timeline(target, count=2000)
 
-#for tweet in public_tweets['statuses']:
+for tweet in public_tweets:
 #    print(tweet)
-#    date_list.append(tweet['created_at'])
-#    tweet_list.append(tweet['text'])
+    date_list.append(tweet['created_at'])
+    tweet_list.append(tweet['text'])
+
     
         
-for status in tweepy.Cursor(api.user_timeline, screen_name='@realDonaldTrump').items():
-    print status._json['text']    
+#for status in tweepy.Cursor(api.user_timeline, screen_name='@realDonaldTrump').items():
+#    print status._json['text']    
 
-#len(tweet_list)
+len(tweet_list)
 ```
 
 
-      File "<ipython-input-36-ae734e7d5048>", line 14
-        print status._json['text']
-                   ^
-    SyntaxError: Missing parentheses in call to 'print'. Did you mean print(int status._json['text'])?
+
+
+    200
 
 
 
 
 ```python
-def get_all_tweets(screen_name):
-    
-    alltweets=[]
-    new_tweets=api.user_timeline(screen_name, count=200)
-    alltweets.extend(new_tweets)
-#    print(alltweets)
-    oldest=alltweets[-1]['id']
-    
-    while len(new_tweets)>0:
-        new_tweets=api.user_timeline(screen_name = screen_name,count=200,max_id=oldest)
-        alltweets.extend(new_tweets)
-        oldest=alltweets[-1]['id']
-    
-    outtweets = [[tweet.id_str, tweet.created_at, tweet.text.encode("utf-8")] for tweet in alltweets]    
-    
-    with open('iwaspoisoned.csv') as f:
-        writer=csv.writer(f)
-        writer.writerow(['id','created_at','text'])
-        writer.writerows(outtweets)
+target="@iwaspoisoned_"
+date_list=[]
+tweet_list=[]
 
-get_all_tweets('@iwaspoisoned_')
+tweet_array = []
+oldest_tweet = ""
+
+for x in range(16):
+    public_tweets = api.user_timeline(target,count=200)
+#    print(len(public_tweets))
+    for tweet in public_tweets:
+
+        date_list.append(tweet['created_at'])
+        tweet_array.append(tweet['text'])
+
+        oldest_tweet = tweet["id_str"]
+
+# Print total number of tweets
+print(len(tweet_array))
+
+
+```
+
+    3200
+
+
+
+```python
+#tweet_array
+
+df=pd.DataFrame(columns=['Date','Text','Venue','Location','City','State'])
+df['Date']=date_list
+df['Text']=tweet_array
+for i,row in df.iterrows():
+    df.iloc[i,2]=df.iloc[i,1].split(' - ')[0]
+    df.iloc[i,3]=df.iloc[i,1].split(' - ')[1]
+    df.iloc[i,4]=df.iloc[i,3].split(',')[0]
+    df.iloc[i,5]=df.iloc[i,3].split(',')[1]
+
+df_filtered=df[['Venue','City','State']]
+
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    RateLimitError                            Traceback (most recent call last)
-
-    <ipython-input-28-eb0147ceddfd> in <module>()
-         19         writer.writerows(outtweets)
-         20 
-    ---> 21 get_all_tweets('@iwaspoisoned_')
-    
-
-    <ipython-input-28-eb0147ceddfd> in get_all_tweets(screen_name)
-          8 
-          9     while len(new_tweets)>0:
-    ---> 10         new_tweets=api.user_timeline(screen_name = screen_name,count=200,max_id=oldest)
-         11         alltweets.extend(new_tweets)
-         12         oldest=alltweets[-1]['id']
+```python
+#pass to csv
+df_filtered.to_csv('offenders.csv')
+```
 
 
-    ~/anaconda3/lib/python3.6/site-packages/tweepy/binder.py in _call(*args, **kwargs)
-        248             return method
-        249         else:
-    --> 250             return method.execute()
-        251 
-        252     # Set pagination mode
+```python
+offenders=[]
+offenders=df_filtered['Venue'].value_counts()[1:11]
+offenders
+```
 
 
-    ~/anaconda3/lib/python3.6/site-packages/tweepy/binder.py in execute(self)
-        230 
-        231                 if is_rate_limit_error_message(error_msg):
-    --> 232                     raise RateLimitError(error_msg, resp)
-        233                 else:
-        234                     raise TweepError(error_msg, resp, api_code=api_error_code)
 
 
-    RateLimitError: [{'message': 'Rate limit exceeded', 'code': 88}]
+    Chipotle Mexican Grill    320
+    McDonalds                 240
+    Subway                    176
+    Taco Bell                 144
+    Wendy's                   128
+    Domino's Pizza             96
+    Burger King                80
+    Costco                     80
+    Popeyes                    80
+    Panda Express              80
+    Name: Venue, dtype: int64
+
 
