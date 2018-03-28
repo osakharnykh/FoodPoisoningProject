@@ -1,0 +1,3201 @@
+,Venue,City,State
+0,The Cheesecake Factory,Austin, Texas
+1,Dunkin donuts,Chicago, Illinois
+2,Chipotle Mexican Grill,Wilmington, North Carolina
+3,Chick-Fil-A,Irving, Texas
+4,Costco,Frederick, Maryland
+5,Zaxby's,Commerce, Georgia
+6,Domino's Pizza,Kalamazoo, Michigan
+7,Subway,Mondovi, Wisconsin
+8,Domino's Pizza,Warrensburg, Missouri
+9,Other,Ann Arbor, Michigan
+10,Whataburger,Katy, Texas
+11,Pret a Manger,Chicago, Illinois
+12,Dunkin donuts,Smyrna, Georgia
+13,KFC,, County Limerick
+14,Subway,London, Ontario
+15,Bob Evans,Chillicothe, Ohio
+16,Other,Los Angeles, California
+17,McDonalds,Bergenfield, New Jersey
+18,Safeway,Keizer, Oregon
+19,Costco,Gilbert, Arizona
+20,Other,Detroit, Michigan
+21,Arby's,Warner Robins, Georgia
+22,Wendy's,St. Catharines, Ontario
+23,Denny's,Orlando, Florida
+24,KFC,, Scotland
+25,Other,Cape Town, Western Cape
+26,Wendy's,Chicago, Illinois
+27,Qdoba,Creve Coeur, Missouri
+28,Taco Bell,Kirksville, Missouri
+29,Popeyes,Pelham, Alabama
+30,KFC,Marion, Iowa
+31,Chipotle Mexican Grill,Goleta, California
+32,Greggs,, England
+33,Dairy Queen,Wichita, Kansas
+34,Chipotle Mexican Grill,Seattle, Washington
+35,Subway,Miami, Florida
+36,Olive Garden,Pensacola, Florida
+37,Wendy's,Hadley, Massachusetts
+38,Other,Fairlawn, Ohio
+39,KFC,, Vermont
+40,Subway,Baldwin, Michigan
+41,Chipotle Mexican Grill,Lake Oswego, Oregon
+42,Jack in the Box,Modesto, California
+43,Jack in the Box,Modesto, California
+44,The Cheesecake Factory,Happy Valley, Oregon
+45,Buffalo wild wings,Fishers, Indiana
+46,Starbucks,Denver, Colorado
+47,Dunkin donuts,Huntersville, North Carolina
+48,Little Caesars Pizza,Davison, Michigan
+49,Sonic,Chandler, Oklahoma
+50,Olive Garden,Vestal, New York
+51,McDonalds,Fuquay Varina, North Carolina
+52,McDonalds,Birmingham, Alabama
+53,Subway,Neenah, Wisconsin
+54,Other,, England
+55,McDonalds,Auburndale, Florida
+56,Five Guys,Cary, North Carolina
+57,Subway,, England
+58,McDonalds,Midland, Ontario
+59,Wendy's,Chula Vista, California
+60,Little Caesars Pizza,Hutto, Texas
+61,Chipotle Mexican Grill,West Hartford, Connecticut
+62,Panda Express,Frisco, Texas
+63,Domino's Pizza,Stoke-on-Trent, England
+64,Popeyes,Honolulu, Hawaii
+65,Raising Canes,Centerville, Ohio
+66,Yard House,Pasadena, California
+67,Panda Express,Antioch, California
+68,Tijuana Flats,Lutz, Florida
+69,Whole Foods Market,Los Angeles, California
+70,Other,Tucson, Arizona
+71,Pizza Hut,Fairburn, GA
+72,Walmart,South Jordan, Utah
+73,Qdoba,Louisville, Kentucky
+74,Chick-Fil-A,Brownsville, Texas
+75,Costco,Durham, North Carolina
+76,Other,Punta Cana, La Altagracia
+77,McDonalds,Cumming, Georgia
+78,McDonalds,Taylor, Michigan
+79,Sonic,Winter Haven, Florida
+80,Burger King,Tarpon Springs, Florida
+81,McDonalds,Highlands Ranch, Colorado
+82,McDonalds,Dearborn Heights, Michigan
+83,Chipotle Mexican Grill,Scottsdale, Arizona
+84,Other,Milwaukee, Wisconsin
+85,Taco Bell,Covington, Washington
+86,Chipotle Mexican Grill,Marysville, Ohio
+87,Costco,Kansas City, Missouri
+88,Subway,New Westminster, British Columbia
+89,Whole Foods Market,Virginia Beach, Virginia
+90,Chipotle Mexican Grill,Folsom, California
+91,Burger King,Fresno, California
+92,Applebee's,La Crosse, Virginia
+93,Sweet Tomatoes,Bradenton, Florida
+94,The Melting Pot,Portland, Oregon
+95,Other,Plano, Texas
+96,McDonalds,Junction City, Kansas
+97,Buffalo wild wings,Warrensburg, Missouri
+98,Taco Bell,Chicago, Illinois
+99,Chipotle Mexican Grill,New York, New York
+100,Other,Costa Mesa, California
+101,Taco Bell,Mishawaka, Indiana
+102,Taco Bell,Hicksville, New York
+103,Chipotle Mexican Grill,Dallas, Texas
+104,Other,Salt Lake City, Utah
+105,Other,Las Vegas, Nevada
+106,Arby's,Spring, Texas
+107,Sonic,Ville Platte, Louisiana
+108,Chipotle Mexican Grill,Dallas, Texas
+109,Other,Fort Collins, Colorado
+110,Chipotle Mexican Grill,Pasadena, California
+111,Chick-Fil-A,Bryan, Texas
+112,Papa John's,Kent, Ohio
+113,Taco Bell,Las Cruces, New Mexico
+114,McDonalds,Saugerties, New York
+115,Chipotle Mexican Grill,El Paso, Texas
+116,Disneyland,Anaheim, California
+117,Jack in the Box,Corona, California
+118,Chipotle Mexican Grill,Orlando, Florida
+119,Taco Bell,Dora, Alabama
+120,Wendy's,Greenville, Michigan
+121,Other,Immokalee, Florida
+122,Chipotle Mexican Grill,Arvada, Colorado
+123,McDonalds,Tompkinsville, Kentucky
+124,Little Caesars Pizza,West Jordan, Utah
+125,Mellow mushroom,Mount Pleasant, South Carolina
+126,Moe's Southwest grill,Evansville, Indiana
+127,Wendy's,Rancho Mirage, California
+128,McDonalds,Denver, Colorado
+129,Chipotle Mexican Grill,Hopkins, Minnesota
+130,Chipotle Mexican Grill,Pasadena, California
+131,Burger King,New York, New York
+132,Other,Windsor, Ontario
+133,Target,Bristol, Virginia
+134,Domino's Pizza,Maryville, Tennessee
+135,Sonic,Grove City, Ohio
+136,Popeyes,Richmond, Virginia
+137,Little Caesars Pizza,Charlotte, North Carolina
+138,Other,Haddonfield, New Jersey
+139,Delta Airlines,Houston, Texas
+140,Other,Fairport, New York
+141,Taco Bell,Lynchburg, Virginia
+142,Buffalo wild wings,Champaign, Illinois
+143,Applebee's,Federal Way, Washington
+144,Domino's Pizza,Wahiawa, Hawaii
+145,Other,Papendrecht, Zuid-Holland
+146,Whole Foods Market,Exton, Pennsylvania
+147,Wendy's,Bushnell, Florida
+148,Subway,Hamilton, Ontario
+149,McDonalds,Toledo, Ohio
+150,Other,Singapore, 
+151,Starbucks,Las Vegas, Nevada
+152,Jack in the Box,, 
+153,Chick-Fil-A,Gilbert, Arizona
+154,Trader Joe's,Santa Clarita, California
+155,Carl's Jr,West Valley City, Utah
+156,McDonalds,Tumwater, Washington
+157,Other,Silver Spring, Maryland
+158,Chipotle Mexican Grill,Los Angeles, California
+159,Other,Pittsburgh, Pennsylvania
+160,Delta Airlines,Honolulu, Hawaii
+161,Burger King,Ocala, Florida
+162,Panda Express,Phoenix, Arizona
+163,Trader Joe's,Burbank, California
+164,Wawa,Langhorne, Pennsylvania
+165,Other,Mauldin, South Carolina
+166,Panera Bread,Knoxville, TN
+167,Panda Express,Henderson, Nevada
+168,Arby's,Garland, Texas
+169,Other,Johnson City, Tennessee
+170,Panda Express,Renton, Washington
+171,Other,Little Rock, Arkansas
+172,Other,Santa Fe, New Mexico
+173,Popeyes,Fairfax, Virginia
+174,Shari's,Meridian, Idaho
+175,Subway,Ormond Beach, Florida
+176,Costco,Red Deer, Alberta
+177,Shake Shack,Detroit, Michigan
+178,Charleys Philly Steaks,Columbus, Ohio
+179,Wendy's,Greenwood Village, Colorado
+180,Subway,Hamilton, Ontario
+181,Long John Silver's,Stillwater, Oklahoma
+182,A&amp;W,Monroe, Michigan
+183,Other,Wichita, Kansas
+184,Whole Foods Market,Jericho, New York
+185,Burger King,Quincy, Massachusetts
+186,Other,Rohnert Park, California
+187,Other,, 
+188,Subway,Stanhope Gardens, New South Wales
+189,Sweetgreen,Philadelphia, Pennsylvania
+190,Applebee's,Baldwin, New York
+191,Cracker Barrel,Dickson, Tennessee
+192,Taco Bell,Chandler, Arizona
+193,Other,, New York
+194,IHOP,Northglenn, Colorado
+195,Chipotle Mexican Grill,Hillsboro, Oregon
+196,Popeyes,Toronto, Ontario
+197,Domino's Pizza,Louisville, Kentucky
+198,Chipotle Mexican Grill,Woodbridge, Virginia
+199,Raising Canes,Glendale, Arizona
+200,The Cheesecake Factory,Austin, Texas
+201,Dunkin donuts,Chicago, Illinois
+202,Chipotle Mexican Grill,Wilmington, North Carolina
+203,Chick-Fil-A,Irving, Texas
+204,Costco,Frederick, Maryland
+205,Zaxby's,Commerce, Georgia
+206,Domino's Pizza,Kalamazoo, Michigan
+207,Subway,Mondovi, Wisconsin
+208,Domino's Pizza,Warrensburg, Missouri
+209,Other,Ann Arbor, Michigan
+210,Whataburger,Katy, Texas
+211,Pret a Manger,Chicago, Illinois
+212,Dunkin donuts,Smyrna, Georgia
+213,KFC,, County Limerick
+214,Subway,London, Ontario
+215,Bob Evans,Chillicothe, Ohio
+216,Other,Los Angeles, California
+217,McDonalds,Bergenfield, New Jersey
+218,Safeway,Keizer, Oregon
+219,Costco,Gilbert, Arizona
+220,Other,Detroit, Michigan
+221,Arby's,Warner Robins, Georgia
+222,Wendy's,St. Catharines, Ontario
+223,Denny's,Orlando, Florida
+224,KFC,, Scotland
+225,Other,Cape Town, Western Cape
+226,Wendy's,Chicago, Illinois
+227,Qdoba,Creve Coeur, Missouri
+228,Taco Bell,Kirksville, Missouri
+229,Popeyes,Pelham, Alabama
+230,KFC,Marion, Iowa
+231,Chipotle Mexican Grill,Goleta, California
+232,Greggs,, England
+233,Dairy Queen,Wichita, Kansas
+234,Chipotle Mexican Grill,Seattle, Washington
+235,Subway,Miami, Florida
+236,Olive Garden,Pensacola, Florida
+237,Wendy's,Hadley, Massachusetts
+238,Other,Fairlawn, Ohio
+239,KFC,, Vermont
+240,Subway,Baldwin, Michigan
+241,Chipotle Mexican Grill,Lake Oswego, Oregon
+242,Jack in the Box,Modesto, California
+243,Jack in the Box,Modesto, California
+244,The Cheesecake Factory,Happy Valley, Oregon
+245,Buffalo wild wings,Fishers, Indiana
+246,Starbucks,Denver, Colorado
+247,Dunkin donuts,Huntersville, North Carolina
+248,Little Caesars Pizza,Davison, Michigan
+249,Sonic,Chandler, Oklahoma
+250,Olive Garden,Vestal, New York
+251,McDonalds,Fuquay Varina, North Carolina
+252,McDonalds,Birmingham, Alabama
+253,Subway,Neenah, Wisconsin
+254,Other,, England
+255,McDonalds,Auburndale, Florida
+256,Five Guys,Cary, North Carolina
+257,Subway,, England
+258,McDonalds,Midland, Ontario
+259,Wendy's,Chula Vista, California
+260,Little Caesars Pizza,Hutto, Texas
+261,Chipotle Mexican Grill,West Hartford, Connecticut
+262,Panda Express,Frisco, Texas
+263,Domino's Pizza,Stoke-on-Trent, England
+264,Popeyes,Honolulu, Hawaii
+265,Raising Canes,Centerville, Ohio
+266,Yard House,Pasadena, California
+267,Panda Express,Antioch, California
+268,Tijuana Flats,Lutz, Florida
+269,Whole Foods Market,Los Angeles, California
+270,Other,Tucson, Arizona
+271,Pizza Hut,Fairburn, GA
+272,Walmart,South Jordan, Utah
+273,Qdoba,Louisville, Kentucky
+274,Chick-Fil-A,Brownsville, Texas
+275,Costco,Durham, North Carolina
+276,Other,Punta Cana, La Altagracia
+277,McDonalds,Cumming, Georgia
+278,McDonalds,Taylor, Michigan
+279,Sonic,Winter Haven, Florida
+280,Burger King,Tarpon Springs, Florida
+281,McDonalds,Highlands Ranch, Colorado
+282,McDonalds,Dearborn Heights, Michigan
+283,Chipotle Mexican Grill,Scottsdale, Arizona
+284,Other,Milwaukee, Wisconsin
+285,Taco Bell,Covington, Washington
+286,Chipotle Mexican Grill,Marysville, Ohio
+287,Costco,Kansas City, Missouri
+288,Subway,New Westminster, British Columbia
+289,Whole Foods Market,Virginia Beach, Virginia
+290,Chipotle Mexican Grill,Folsom, California
+291,Burger King,Fresno, California
+292,Applebee's,La Crosse, Virginia
+293,Sweet Tomatoes,Bradenton, Florida
+294,The Melting Pot,Portland, Oregon
+295,Other,Plano, Texas
+296,McDonalds,Junction City, Kansas
+297,Buffalo wild wings,Warrensburg, Missouri
+298,Taco Bell,Chicago, Illinois
+299,Chipotle Mexican Grill,New York, New York
+300,Other,Costa Mesa, California
+301,Taco Bell,Mishawaka, Indiana
+302,Taco Bell,Hicksville, New York
+303,Chipotle Mexican Grill,Dallas, Texas
+304,Other,Salt Lake City, Utah
+305,Other,Las Vegas, Nevada
+306,Arby's,Spring, Texas
+307,Sonic,Ville Platte, Louisiana
+308,Chipotle Mexican Grill,Dallas, Texas
+309,Other,Fort Collins, Colorado
+310,Chipotle Mexican Grill,Pasadena, California
+311,Chick-Fil-A,Bryan, Texas
+312,Papa John's,Kent, Ohio
+313,Taco Bell,Las Cruces, New Mexico
+314,McDonalds,Saugerties, New York
+315,Chipotle Mexican Grill,El Paso, Texas
+316,Disneyland,Anaheim, California
+317,Jack in the Box,Corona, California
+318,Chipotle Mexican Grill,Orlando, Florida
+319,Taco Bell,Dora, Alabama
+320,Wendy's,Greenville, Michigan
+321,Other,Immokalee, Florida
+322,Chipotle Mexican Grill,Arvada, Colorado
+323,McDonalds,Tompkinsville, Kentucky
+324,Little Caesars Pizza,West Jordan, Utah
+325,Mellow mushroom,Mount Pleasant, South Carolina
+326,Moe's Southwest grill,Evansville, Indiana
+327,Wendy's,Rancho Mirage, California
+328,McDonalds,Denver, Colorado
+329,Chipotle Mexican Grill,Hopkins, Minnesota
+330,Chipotle Mexican Grill,Pasadena, California
+331,Burger King,New York, New York
+332,Other,Windsor, Ontario
+333,Target,Bristol, Virginia
+334,Domino's Pizza,Maryville, Tennessee
+335,Sonic,Grove City, Ohio
+336,Popeyes,Richmond, Virginia
+337,Little Caesars Pizza,Charlotte, North Carolina
+338,Other,Haddonfield, New Jersey
+339,Delta Airlines,Houston, Texas
+340,Other,Fairport, New York
+341,Taco Bell,Lynchburg, Virginia
+342,Buffalo wild wings,Champaign, Illinois
+343,Applebee's,Federal Way, Washington
+344,Domino's Pizza,Wahiawa, Hawaii
+345,Other,Papendrecht, Zuid-Holland
+346,Whole Foods Market,Exton, Pennsylvania
+347,Wendy's,Bushnell, Florida
+348,Subway,Hamilton, Ontario
+349,McDonalds,Toledo, Ohio
+350,Other,Singapore, 
+351,Starbucks,Las Vegas, Nevada
+352,Jack in the Box,, 
+353,Chick-Fil-A,Gilbert, Arizona
+354,Trader Joe's,Santa Clarita, California
+355,Carl's Jr,West Valley City, Utah
+356,McDonalds,Tumwater, Washington
+357,Other,Silver Spring, Maryland
+358,Chipotle Mexican Grill,Los Angeles, California
+359,Other,Pittsburgh, Pennsylvania
+360,Delta Airlines,Honolulu, Hawaii
+361,Burger King,Ocala, Florida
+362,Panda Express,Phoenix, Arizona
+363,Trader Joe's,Burbank, California
+364,Wawa,Langhorne, Pennsylvania
+365,Other,Mauldin, South Carolina
+366,Panera Bread,Knoxville, TN
+367,Panda Express,Henderson, Nevada
+368,Arby's,Garland, Texas
+369,Other,Johnson City, Tennessee
+370,Panda Express,Renton, Washington
+371,Other,Little Rock, Arkansas
+372,Other,Santa Fe, New Mexico
+373,Popeyes,Fairfax, Virginia
+374,Shari's,Meridian, Idaho
+375,Subway,Ormond Beach, Florida
+376,Costco,Red Deer, Alberta
+377,Shake Shack,Detroit, Michigan
+378,Charleys Philly Steaks,Columbus, Ohio
+379,Wendy's,Greenwood Village, Colorado
+380,Subway,Hamilton, Ontario
+381,Long John Silver's,Stillwater, Oklahoma
+382,A&amp;W,Monroe, Michigan
+383,Other,Wichita, Kansas
+384,Whole Foods Market,Jericho, New York
+385,Burger King,Quincy, Massachusetts
+386,Other,Rohnert Park, California
+387,Other,, 
+388,Subway,Stanhope Gardens, New South Wales
+389,Sweetgreen,Philadelphia, Pennsylvania
+390,Applebee's,Baldwin, New York
+391,Cracker Barrel,Dickson, Tennessee
+392,Taco Bell,Chandler, Arizona
+393,Other,, New York
+394,IHOP,Northglenn, Colorado
+395,Chipotle Mexican Grill,Hillsboro, Oregon
+396,Popeyes,Toronto, Ontario
+397,Domino's Pizza,Louisville, Kentucky
+398,Chipotle Mexican Grill,Woodbridge, Virginia
+399,Raising Canes,Glendale, Arizona
+400,The Cheesecake Factory,Austin, Texas
+401,Dunkin donuts,Chicago, Illinois
+402,Chipotle Mexican Grill,Wilmington, North Carolina
+403,Chick-Fil-A,Irving, Texas
+404,Costco,Frederick, Maryland
+405,Zaxby's,Commerce, Georgia
+406,Domino's Pizza,Kalamazoo, Michigan
+407,Subway,Mondovi, Wisconsin
+408,Domino's Pizza,Warrensburg, Missouri
+409,Other,Ann Arbor, Michigan
+410,Whataburger,Katy, Texas
+411,Pret a Manger,Chicago, Illinois
+412,Dunkin donuts,Smyrna, Georgia
+413,KFC,, County Limerick
+414,Subway,London, Ontario
+415,Bob Evans,Chillicothe, Ohio
+416,Other,Los Angeles, California
+417,McDonalds,Bergenfield, New Jersey
+418,Safeway,Keizer, Oregon
+419,Costco,Gilbert, Arizona
+420,Other,Detroit, Michigan
+421,Arby's,Warner Robins, Georgia
+422,Wendy's,St. Catharines, Ontario
+423,Denny's,Orlando, Florida
+424,KFC,, Scotland
+425,Other,Cape Town, Western Cape
+426,Wendy's,Chicago, Illinois
+427,Qdoba,Creve Coeur, Missouri
+428,Taco Bell,Kirksville, Missouri
+429,Popeyes,Pelham, Alabama
+430,KFC,Marion, Iowa
+431,Chipotle Mexican Grill,Goleta, California
+432,Greggs,, England
+433,Dairy Queen,Wichita, Kansas
+434,Chipotle Mexican Grill,Seattle, Washington
+435,Subway,Miami, Florida
+436,Olive Garden,Pensacola, Florida
+437,Wendy's,Hadley, Massachusetts
+438,Other,Fairlawn, Ohio
+439,KFC,, Vermont
+440,Subway,Baldwin, Michigan
+441,Chipotle Mexican Grill,Lake Oswego, Oregon
+442,Jack in the Box,Modesto, California
+443,Jack in the Box,Modesto, California
+444,The Cheesecake Factory,Happy Valley, Oregon
+445,Buffalo wild wings,Fishers, Indiana
+446,Starbucks,Denver, Colorado
+447,Dunkin donuts,Huntersville, North Carolina
+448,Little Caesars Pizza,Davison, Michigan
+449,Sonic,Chandler, Oklahoma
+450,Olive Garden,Vestal, New York
+451,McDonalds,Fuquay Varina, North Carolina
+452,McDonalds,Birmingham, Alabama
+453,Subway,Neenah, Wisconsin
+454,Other,, England
+455,McDonalds,Auburndale, Florida
+456,Five Guys,Cary, North Carolina
+457,Subway,, England
+458,McDonalds,Midland, Ontario
+459,Wendy's,Chula Vista, California
+460,Little Caesars Pizza,Hutto, Texas
+461,Chipotle Mexican Grill,West Hartford, Connecticut
+462,Panda Express,Frisco, Texas
+463,Domino's Pizza,Stoke-on-Trent, England
+464,Popeyes,Honolulu, Hawaii
+465,Raising Canes,Centerville, Ohio
+466,Yard House,Pasadena, California
+467,Panda Express,Antioch, California
+468,Tijuana Flats,Lutz, Florida
+469,Whole Foods Market,Los Angeles, California
+470,Other,Tucson, Arizona
+471,Pizza Hut,Fairburn, GA
+472,Walmart,South Jordan, Utah
+473,Qdoba,Louisville, Kentucky
+474,Chick-Fil-A,Brownsville, Texas
+475,Costco,Durham, North Carolina
+476,Other,Punta Cana, La Altagracia
+477,McDonalds,Cumming, Georgia
+478,McDonalds,Taylor, Michigan
+479,Sonic,Winter Haven, Florida
+480,Burger King,Tarpon Springs, Florida
+481,McDonalds,Highlands Ranch, Colorado
+482,McDonalds,Dearborn Heights, Michigan
+483,Chipotle Mexican Grill,Scottsdale, Arizona
+484,Other,Milwaukee, Wisconsin
+485,Taco Bell,Covington, Washington
+486,Chipotle Mexican Grill,Marysville, Ohio
+487,Costco,Kansas City, Missouri
+488,Subway,New Westminster, British Columbia
+489,Whole Foods Market,Virginia Beach, Virginia
+490,Chipotle Mexican Grill,Folsom, California
+491,Burger King,Fresno, California
+492,Applebee's,La Crosse, Virginia
+493,Sweet Tomatoes,Bradenton, Florida
+494,The Melting Pot,Portland, Oregon
+495,Other,Plano, Texas
+496,McDonalds,Junction City, Kansas
+497,Buffalo wild wings,Warrensburg, Missouri
+498,Taco Bell,Chicago, Illinois
+499,Chipotle Mexican Grill,New York, New York
+500,Other,Costa Mesa, California
+501,Taco Bell,Mishawaka, Indiana
+502,Taco Bell,Hicksville, New York
+503,Chipotle Mexican Grill,Dallas, Texas
+504,Other,Salt Lake City, Utah
+505,Other,Las Vegas, Nevada
+506,Arby's,Spring, Texas
+507,Sonic,Ville Platte, Louisiana
+508,Chipotle Mexican Grill,Dallas, Texas
+509,Other,Fort Collins, Colorado
+510,Chipotle Mexican Grill,Pasadena, California
+511,Chick-Fil-A,Bryan, Texas
+512,Papa John's,Kent, Ohio
+513,Taco Bell,Las Cruces, New Mexico
+514,McDonalds,Saugerties, New York
+515,Chipotle Mexican Grill,El Paso, Texas
+516,Disneyland,Anaheim, California
+517,Jack in the Box,Corona, California
+518,Chipotle Mexican Grill,Orlando, Florida
+519,Taco Bell,Dora, Alabama
+520,Wendy's,Greenville, Michigan
+521,Other,Immokalee, Florida
+522,Chipotle Mexican Grill,Arvada, Colorado
+523,McDonalds,Tompkinsville, Kentucky
+524,Little Caesars Pizza,West Jordan, Utah
+525,Mellow mushroom,Mount Pleasant, South Carolina
+526,Moe's Southwest grill,Evansville, Indiana
+527,Wendy's,Rancho Mirage, California
+528,McDonalds,Denver, Colorado
+529,Chipotle Mexican Grill,Hopkins, Minnesota
+530,Chipotle Mexican Grill,Pasadena, California
+531,Burger King,New York, New York
+532,Other,Windsor, Ontario
+533,Target,Bristol, Virginia
+534,Domino's Pizza,Maryville, Tennessee
+535,Sonic,Grove City, Ohio
+536,Popeyes,Richmond, Virginia
+537,Little Caesars Pizza,Charlotte, North Carolina
+538,Other,Haddonfield, New Jersey
+539,Delta Airlines,Houston, Texas
+540,Other,Fairport, New York
+541,Taco Bell,Lynchburg, Virginia
+542,Buffalo wild wings,Champaign, Illinois
+543,Applebee's,Federal Way, Washington
+544,Domino's Pizza,Wahiawa, Hawaii
+545,Other,Papendrecht, Zuid-Holland
+546,Whole Foods Market,Exton, Pennsylvania
+547,Wendy's,Bushnell, Florida
+548,Subway,Hamilton, Ontario
+549,McDonalds,Toledo, Ohio
+550,Other,Singapore, 
+551,Starbucks,Las Vegas, Nevada
+552,Jack in the Box,, 
+553,Chick-Fil-A,Gilbert, Arizona
+554,Trader Joe's,Santa Clarita, California
+555,Carl's Jr,West Valley City, Utah
+556,McDonalds,Tumwater, Washington
+557,Other,Silver Spring, Maryland
+558,Chipotle Mexican Grill,Los Angeles, California
+559,Other,Pittsburgh, Pennsylvania
+560,Delta Airlines,Honolulu, Hawaii
+561,Burger King,Ocala, Florida
+562,Panda Express,Phoenix, Arizona
+563,Trader Joe's,Burbank, California
+564,Wawa,Langhorne, Pennsylvania
+565,Other,Mauldin, South Carolina
+566,Panera Bread,Knoxville, TN
+567,Panda Express,Henderson, Nevada
+568,Arby's,Garland, Texas
+569,Other,Johnson City, Tennessee
+570,Panda Express,Renton, Washington
+571,Other,Little Rock, Arkansas
+572,Other,Santa Fe, New Mexico
+573,Popeyes,Fairfax, Virginia
+574,Shari's,Meridian, Idaho
+575,Subway,Ormond Beach, Florida
+576,Costco,Red Deer, Alberta
+577,Shake Shack,Detroit, Michigan
+578,Charleys Philly Steaks,Columbus, Ohio
+579,Wendy's,Greenwood Village, Colorado
+580,Subway,Hamilton, Ontario
+581,Long John Silver's,Stillwater, Oklahoma
+582,A&amp;W,Monroe, Michigan
+583,Other,Wichita, Kansas
+584,Whole Foods Market,Jericho, New York
+585,Burger King,Quincy, Massachusetts
+586,Other,Rohnert Park, California
+587,Other,, 
+588,Subway,Stanhope Gardens, New South Wales
+589,Sweetgreen,Philadelphia, Pennsylvania
+590,Applebee's,Baldwin, New York
+591,Cracker Barrel,Dickson, Tennessee
+592,Taco Bell,Chandler, Arizona
+593,Other,, New York
+594,IHOP,Northglenn, Colorado
+595,Chipotle Mexican Grill,Hillsboro, Oregon
+596,Popeyes,Toronto, Ontario
+597,Domino's Pizza,Louisville, Kentucky
+598,Chipotle Mexican Grill,Woodbridge, Virginia
+599,Raising Canes,Glendale, Arizona
+600,The Cheesecake Factory,Austin, Texas
+601,Dunkin donuts,Chicago, Illinois
+602,Chipotle Mexican Grill,Wilmington, North Carolina
+603,Chick-Fil-A,Irving, Texas
+604,Costco,Frederick, Maryland
+605,Zaxby's,Commerce, Georgia
+606,Domino's Pizza,Kalamazoo, Michigan
+607,Subway,Mondovi, Wisconsin
+608,Domino's Pizza,Warrensburg, Missouri
+609,Other,Ann Arbor, Michigan
+610,Whataburger,Katy, Texas
+611,Pret a Manger,Chicago, Illinois
+612,Dunkin donuts,Smyrna, Georgia
+613,KFC,, County Limerick
+614,Subway,London, Ontario
+615,Bob Evans,Chillicothe, Ohio
+616,Other,Los Angeles, California
+617,McDonalds,Bergenfield, New Jersey
+618,Safeway,Keizer, Oregon
+619,Costco,Gilbert, Arizona
+620,Other,Detroit, Michigan
+621,Arby's,Warner Robins, Georgia
+622,Wendy's,St. Catharines, Ontario
+623,Denny's,Orlando, Florida
+624,KFC,, Scotland
+625,Other,Cape Town, Western Cape
+626,Wendy's,Chicago, Illinois
+627,Qdoba,Creve Coeur, Missouri
+628,Taco Bell,Kirksville, Missouri
+629,Popeyes,Pelham, Alabama
+630,KFC,Marion, Iowa
+631,Chipotle Mexican Grill,Goleta, California
+632,Greggs,, England
+633,Dairy Queen,Wichita, Kansas
+634,Chipotle Mexican Grill,Seattle, Washington
+635,Subway,Miami, Florida
+636,Olive Garden,Pensacola, Florida
+637,Wendy's,Hadley, Massachusetts
+638,Other,Fairlawn, Ohio
+639,KFC,, Vermont
+640,Subway,Baldwin, Michigan
+641,Chipotle Mexican Grill,Lake Oswego, Oregon
+642,Jack in the Box,Modesto, California
+643,Jack in the Box,Modesto, California
+644,The Cheesecake Factory,Happy Valley, Oregon
+645,Buffalo wild wings,Fishers, Indiana
+646,Starbucks,Denver, Colorado
+647,Dunkin donuts,Huntersville, North Carolina
+648,Little Caesars Pizza,Davison, Michigan
+649,Sonic,Chandler, Oklahoma
+650,Olive Garden,Vestal, New York
+651,McDonalds,Fuquay Varina, North Carolina
+652,McDonalds,Birmingham, Alabama
+653,Subway,Neenah, Wisconsin
+654,Other,, England
+655,McDonalds,Auburndale, Florida
+656,Five Guys,Cary, North Carolina
+657,Subway,, England
+658,McDonalds,Midland, Ontario
+659,Wendy's,Chula Vista, California
+660,Little Caesars Pizza,Hutto, Texas
+661,Chipotle Mexican Grill,West Hartford, Connecticut
+662,Panda Express,Frisco, Texas
+663,Domino's Pizza,Stoke-on-Trent, England
+664,Popeyes,Honolulu, Hawaii
+665,Raising Canes,Centerville, Ohio
+666,Yard House,Pasadena, California
+667,Panda Express,Antioch, California
+668,Tijuana Flats,Lutz, Florida
+669,Whole Foods Market,Los Angeles, California
+670,Other,Tucson, Arizona
+671,Pizza Hut,Fairburn, GA
+672,Walmart,South Jordan, Utah
+673,Qdoba,Louisville, Kentucky
+674,Chick-Fil-A,Brownsville, Texas
+675,Costco,Durham, North Carolina
+676,Other,Punta Cana, La Altagracia
+677,McDonalds,Cumming, Georgia
+678,McDonalds,Taylor, Michigan
+679,Sonic,Winter Haven, Florida
+680,Burger King,Tarpon Springs, Florida
+681,McDonalds,Highlands Ranch, Colorado
+682,McDonalds,Dearborn Heights, Michigan
+683,Chipotle Mexican Grill,Scottsdale, Arizona
+684,Other,Milwaukee, Wisconsin
+685,Taco Bell,Covington, Washington
+686,Chipotle Mexican Grill,Marysville, Ohio
+687,Costco,Kansas City, Missouri
+688,Subway,New Westminster, British Columbia
+689,Whole Foods Market,Virginia Beach, Virginia
+690,Chipotle Mexican Grill,Folsom, California
+691,Burger King,Fresno, California
+692,Applebee's,La Crosse, Virginia
+693,Sweet Tomatoes,Bradenton, Florida
+694,The Melting Pot,Portland, Oregon
+695,Other,Plano, Texas
+696,McDonalds,Junction City, Kansas
+697,Buffalo wild wings,Warrensburg, Missouri
+698,Taco Bell,Chicago, Illinois
+699,Chipotle Mexican Grill,New York, New York
+700,Other,Costa Mesa, California
+701,Taco Bell,Mishawaka, Indiana
+702,Taco Bell,Hicksville, New York
+703,Chipotle Mexican Grill,Dallas, Texas
+704,Other,Salt Lake City, Utah
+705,Other,Las Vegas, Nevada
+706,Arby's,Spring, Texas
+707,Sonic,Ville Platte, Louisiana
+708,Chipotle Mexican Grill,Dallas, Texas
+709,Other,Fort Collins, Colorado
+710,Chipotle Mexican Grill,Pasadena, California
+711,Chick-Fil-A,Bryan, Texas
+712,Papa John's,Kent, Ohio
+713,Taco Bell,Las Cruces, New Mexico
+714,McDonalds,Saugerties, New York
+715,Chipotle Mexican Grill,El Paso, Texas
+716,Disneyland,Anaheim, California
+717,Jack in the Box,Corona, California
+718,Chipotle Mexican Grill,Orlando, Florida
+719,Taco Bell,Dora, Alabama
+720,Wendy's,Greenville, Michigan
+721,Other,Immokalee, Florida
+722,Chipotle Mexican Grill,Arvada, Colorado
+723,McDonalds,Tompkinsville, Kentucky
+724,Little Caesars Pizza,West Jordan, Utah
+725,Mellow mushroom,Mount Pleasant, South Carolina
+726,Moe's Southwest grill,Evansville, Indiana
+727,Wendy's,Rancho Mirage, California
+728,McDonalds,Denver, Colorado
+729,Chipotle Mexican Grill,Hopkins, Minnesota
+730,Chipotle Mexican Grill,Pasadena, California
+731,Burger King,New York, New York
+732,Other,Windsor, Ontario
+733,Target,Bristol, Virginia
+734,Domino's Pizza,Maryville, Tennessee
+735,Sonic,Grove City, Ohio
+736,Popeyes,Richmond, Virginia
+737,Little Caesars Pizza,Charlotte, North Carolina
+738,Other,Haddonfield, New Jersey
+739,Delta Airlines,Houston, Texas
+740,Other,Fairport, New York
+741,Taco Bell,Lynchburg, Virginia
+742,Buffalo wild wings,Champaign, Illinois
+743,Applebee's,Federal Way, Washington
+744,Domino's Pizza,Wahiawa, Hawaii
+745,Other,Papendrecht, Zuid-Holland
+746,Whole Foods Market,Exton, Pennsylvania
+747,Wendy's,Bushnell, Florida
+748,Subway,Hamilton, Ontario
+749,McDonalds,Toledo, Ohio
+750,Other,Singapore, 
+751,Starbucks,Las Vegas, Nevada
+752,Jack in the Box,, 
+753,Chick-Fil-A,Gilbert, Arizona
+754,Trader Joe's,Santa Clarita, California
+755,Carl's Jr,West Valley City, Utah
+756,McDonalds,Tumwater, Washington
+757,Other,Silver Spring, Maryland
+758,Chipotle Mexican Grill,Los Angeles, California
+759,Other,Pittsburgh, Pennsylvania
+760,Delta Airlines,Honolulu, Hawaii
+761,Burger King,Ocala, Florida
+762,Panda Express,Phoenix, Arizona
+763,Trader Joe's,Burbank, California
+764,Wawa,Langhorne, Pennsylvania
+765,Other,Mauldin, South Carolina
+766,Panera Bread,Knoxville, TN
+767,Panda Express,Henderson, Nevada
+768,Arby's,Garland, Texas
+769,Other,Johnson City, Tennessee
+770,Panda Express,Renton, Washington
+771,Other,Little Rock, Arkansas
+772,Other,Santa Fe, New Mexico
+773,Popeyes,Fairfax, Virginia
+774,Shari's,Meridian, Idaho
+775,Subway,Ormond Beach, Florida
+776,Costco,Red Deer, Alberta
+777,Shake Shack,Detroit, Michigan
+778,Charleys Philly Steaks,Columbus, Ohio
+779,Wendy's,Greenwood Village, Colorado
+780,Subway,Hamilton, Ontario
+781,Long John Silver's,Stillwater, Oklahoma
+782,A&amp;W,Monroe, Michigan
+783,Other,Wichita, Kansas
+784,Whole Foods Market,Jericho, New York
+785,Burger King,Quincy, Massachusetts
+786,Other,Rohnert Park, California
+787,Other,, 
+788,Subway,Stanhope Gardens, New South Wales
+789,Sweetgreen,Philadelphia, Pennsylvania
+790,Applebee's,Baldwin, New York
+791,Cracker Barrel,Dickson, Tennessee
+792,Taco Bell,Chandler, Arizona
+793,Other,, New York
+794,IHOP,Northglenn, Colorado
+795,Chipotle Mexican Grill,Hillsboro, Oregon
+796,Popeyes,Toronto, Ontario
+797,Domino's Pizza,Louisville, Kentucky
+798,Chipotle Mexican Grill,Woodbridge, Virginia
+799,Raising Canes,Glendale, Arizona
+800,The Cheesecake Factory,Austin, Texas
+801,Dunkin donuts,Chicago, Illinois
+802,Chipotle Mexican Grill,Wilmington, North Carolina
+803,Chick-Fil-A,Irving, Texas
+804,Costco,Frederick, Maryland
+805,Zaxby's,Commerce, Georgia
+806,Domino's Pizza,Kalamazoo, Michigan
+807,Subway,Mondovi, Wisconsin
+808,Domino's Pizza,Warrensburg, Missouri
+809,Other,Ann Arbor, Michigan
+810,Whataburger,Katy, Texas
+811,Pret a Manger,Chicago, Illinois
+812,Dunkin donuts,Smyrna, Georgia
+813,KFC,, County Limerick
+814,Subway,London, Ontario
+815,Bob Evans,Chillicothe, Ohio
+816,Other,Los Angeles, California
+817,McDonalds,Bergenfield, New Jersey
+818,Safeway,Keizer, Oregon
+819,Costco,Gilbert, Arizona
+820,Other,Detroit, Michigan
+821,Arby's,Warner Robins, Georgia
+822,Wendy's,St. Catharines, Ontario
+823,Denny's,Orlando, Florida
+824,KFC,, Scotland
+825,Other,Cape Town, Western Cape
+826,Wendy's,Chicago, Illinois
+827,Qdoba,Creve Coeur, Missouri
+828,Taco Bell,Kirksville, Missouri
+829,Popeyes,Pelham, Alabama
+830,KFC,Marion, Iowa
+831,Chipotle Mexican Grill,Goleta, California
+832,Greggs,, England
+833,Dairy Queen,Wichita, Kansas
+834,Chipotle Mexican Grill,Seattle, Washington
+835,Subway,Miami, Florida
+836,Olive Garden,Pensacola, Florida
+837,Wendy's,Hadley, Massachusetts
+838,Other,Fairlawn, Ohio
+839,KFC,, Vermont
+840,Subway,Baldwin, Michigan
+841,Chipotle Mexican Grill,Lake Oswego, Oregon
+842,Jack in the Box,Modesto, California
+843,Jack in the Box,Modesto, California
+844,The Cheesecake Factory,Happy Valley, Oregon
+845,Buffalo wild wings,Fishers, Indiana
+846,Starbucks,Denver, Colorado
+847,Dunkin donuts,Huntersville, North Carolina
+848,Little Caesars Pizza,Davison, Michigan
+849,Sonic,Chandler, Oklahoma
+850,Olive Garden,Vestal, New York
+851,McDonalds,Fuquay Varina, North Carolina
+852,McDonalds,Birmingham, Alabama
+853,Subway,Neenah, Wisconsin
+854,Other,, England
+855,McDonalds,Auburndale, Florida
+856,Five Guys,Cary, North Carolina
+857,Subway,, England
+858,McDonalds,Midland, Ontario
+859,Wendy's,Chula Vista, California
+860,Little Caesars Pizza,Hutto, Texas
+861,Chipotle Mexican Grill,West Hartford, Connecticut
+862,Panda Express,Frisco, Texas
+863,Domino's Pizza,Stoke-on-Trent, England
+864,Popeyes,Honolulu, Hawaii
+865,Raising Canes,Centerville, Ohio
+866,Yard House,Pasadena, California
+867,Panda Express,Antioch, California
+868,Tijuana Flats,Lutz, Florida
+869,Whole Foods Market,Los Angeles, California
+870,Other,Tucson, Arizona
+871,Pizza Hut,Fairburn, GA
+872,Walmart,South Jordan, Utah
+873,Qdoba,Louisville, Kentucky
+874,Chick-Fil-A,Brownsville, Texas
+875,Costco,Durham, North Carolina
+876,Other,Punta Cana, La Altagracia
+877,McDonalds,Cumming, Georgia
+878,McDonalds,Taylor, Michigan
+879,Sonic,Winter Haven, Florida
+880,Burger King,Tarpon Springs, Florida
+881,McDonalds,Highlands Ranch, Colorado
+882,McDonalds,Dearborn Heights, Michigan
+883,Chipotle Mexican Grill,Scottsdale, Arizona
+884,Other,Milwaukee, Wisconsin
+885,Taco Bell,Covington, Washington
+886,Chipotle Mexican Grill,Marysville, Ohio
+887,Costco,Kansas City, Missouri
+888,Subway,New Westminster, British Columbia
+889,Whole Foods Market,Virginia Beach, Virginia
+890,Chipotle Mexican Grill,Folsom, California
+891,Burger King,Fresno, California
+892,Applebee's,La Crosse, Virginia
+893,Sweet Tomatoes,Bradenton, Florida
+894,The Melting Pot,Portland, Oregon
+895,Other,Plano, Texas
+896,McDonalds,Junction City, Kansas
+897,Buffalo wild wings,Warrensburg, Missouri
+898,Taco Bell,Chicago, Illinois
+899,Chipotle Mexican Grill,New York, New York
+900,Other,Costa Mesa, California
+901,Taco Bell,Mishawaka, Indiana
+902,Taco Bell,Hicksville, New York
+903,Chipotle Mexican Grill,Dallas, Texas
+904,Other,Salt Lake City, Utah
+905,Other,Las Vegas, Nevada
+906,Arby's,Spring, Texas
+907,Sonic,Ville Platte, Louisiana
+908,Chipotle Mexican Grill,Dallas, Texas
+909,Other,Fort Collins, Colorado
+910,Chipotle Mexican Grill,Pasadena, California
+911,Chick-Fil-A,Bryan, Texas
+912,Papa John's,Kent, Ohio
+913,Taco Bell,Las Cruces, New Mexico
+914,McDonalds,Saugerties, New York
+915,Chipotle Mexican Grill,El Paso, Texas
+916,Disneyland,Anaheim, California
+917,Jack in the Box,Corona, California
+918,Chipotle Mexican Grill,Orlando, Florida
+919,Taco Bell,Dora, Alabama
+920,Wendy's,Greenville, Michigan
+921,Other,Immokalee, Florida
+922,Chipotle Mexican Grill,Arvada, Colorado
+923,McDonalds,Tompkinsville, Kentucky
+924,Little Caesars Pizza,West Jordan, Utah
+925,Mellow mushroom,Mount Pleasant, South Carolina
+926,Moe's Southwest grill,Evansville, Indiana
+927,Wendy's,Rancho Mirage, California
+928,McDonalds,Denver, Colorado
+929,Chipotle Mexican Grill,Hopkins, Minnesota
+930,Chipotle Mexican Grill,Pasadena, California
+931,Burger King,New York, New York
+932,Other,Windsor, Ontario
+933,Target,Bristol, Virginia
+934,Domino's Pizza,Maryville, Tennessee
+935,Sonic,Grove City, Ohio
+936,Popeyes,Richmond, Virginia
+937,Little Caesars Pizza,Charlotte, North Carolina
+938,Other,Haddonfield, New Jersey
+939,Delta Airlines,Houston, Texas
+940,Other,Fairport, New York
+941,Taco Bell,Lynchburg, Virginia
+942,Buffalo wild wings,Champaign, Illinois
+943,Applebee's,Federal Way, Washington
+944,Domino's Pizza,Wahiawa, Hawaii
+945,Other,Papendrecht, Zuid-Holland
+946,Whole Foods Market,Exton, Pennsylvania
+947,Wendy's,Bushnell, Florida
+948,Subway,Hamilton, Ontario
+949,McDonalds,Toledo, Ohio
+950,Other,Singapore, 
+951,Starbucks,Las Vegas, Nevada
+952,Jack in the Box,, 
+953,Chick-Fil-A,Gilbert, Arizona
+954,Trader Joe's,Santa Clarita, California
+955,Carl's Jr,West Valley City, Utah
+956,McDonalds,Tumwater, Washington
+957,Other,Silver Spring, Maryland
+958,Chipotle Mexican Grill,Los Angeles, California
+959,Other,Pittsburgh, Pennsylvania
+960,Delta Airlines,Honolulu, Hawaii
+961,Burger King,Ocala, Florida
+962,Panda Express,Phoenix, Arizona
+963,Trader Joe's,Burbank, California
+964,Wawa,Langhorne, Pennsylvania
+965,Other,Mauldin, South Carolina
+966,Panera Bread,Knoxville, TN
+967,Panda Express,Henderson, Nevada
+968,Arby's,Garland, Texas
+969,Other,Johnson City, Tennessee
+970,Panda Express,Renton, Washington
+971,Other,Little Rock, Arkansas
+972,Other,Santa Fe, New Mexico
+973,Popeyes,Fairfax, Virginia
+974,Shari's,Meridian, Idaho
+975,Subway,Ormond Beach, Florida
+976,Costco,Red Deer, Alberta
+977,Shake Shack,Detroit, Michigan
+978,Charleys Philly Steaks,Columbus, Ohio
+979,Wendy's,Greenwood Village, Colorado
+980,Subway,Hamilton, Ontario
+981,Long John Silver's,Stillwater, Oklahoma
+982,A&amp;W,Monroe, Michigan
+983,Other,Wichita, Kansas
+984,Whole Foods Market,Jericho, New York
+985,Burger King,Quincy, Massachusetts
+986,Other,Rohnert Park, California
+987,Other,, 
+988,Subway,Stanhope Gardens, New South Wales
+989,Sweetgreen,Philadelphia, Pennsylvania
+990,Applebee's,Baldwin, New York
+991,Cracker Barrel,Dickson, Tennessee
+992,Taco Bell,Chandler, Arizona
+993,Other,, New York
+994,IHOP,Northglenn, Colorado
+995,Chipotle Mexican Grill,Hillsboro, Oregon
+996,Popeyes,Toronto, Ontario
+997,Domino's Pizza,Louisville, Kentucky
+998,Chipotle Mexican Grill,Woodbridge, Virginia
+999,Raising Canes,Glendale, Arizona
+1000,The Cheesecake Factory,Austin, Texas
+1001,Dunkin donuts,Chicago, Illinois
+1002,Chipotle Mexican Grill,Wilmington, North Carolina
+1003,Chick-Fil-A,Irving, Texas
+1004,Costco,Frederick, Maryland
+1005,Zaxby's,Commerce, Georgia
+1006,Domino's Pizza,Kalamazoo, Michigan
+1007,Subway,Mondovi, Wisconsin
+1008,Domino's Pizza,Warrensburg, Missouri
+1009,Other,Ann Arbor, Michigan
+1010,Whataburger,Katy, Texas
+1011,Pret a Manger,Chicago, Illinois
+1012,Dunkin donuts,Smyrna, Georgia
+1013,KFC,, County Limerick
+1014,Subway,London, Ontario
+1015,Bob Evans,Chillicothe, Ohio
+1016,Other,Los Angeles, California
+1017,McDonalds,Bergenfield, New Jersey
+1018,Safeway,Keizer, Oregon
+1019,Costco,Gilbert, Arizona
+1020,Other,Detroit, Michigan
+1021,Arby's,Warner Robins, Georgia
+1022,Wendy's,St. Catharines, Ontario
+1023,Denny's,Orlando, Florida
+1024,KFC,, Scotland
+1025,Other,Cape Town, Western Cape
+1026,Wendy's,Chicago, Illinois
+1027,Qdoba,Creve Coeur, Missouri
+1028,Taco Bell,Kirksville, Missouri
+1029,Popeyes,Pelham, Alabama
+1030,KFC,Marion, Iowa
+1031,Chipotle Mexican Grill,Goleta, California
+1032,Greggs,, England
+1033,Dairy Queen,Wichita, Kansas
+1034,Chipotle Mexican Grill,Seattle, Washington
+1035,Subway,Miami, Florida
+1036,Olive Garden,Pensacola, Florida
+1037,Wendy's,Hadley, Massachusetts
+1038,Other,Fairlawn, Ohio
+1039,KFC,, Vermont
+1040,Subway,Baldwin, Michigan
+1041,Chipotle Mexican Grill,Lake Oswego, Oregon
+1042,Jack in the Box,Modesto, California
+1043,Jack in the Box,Modesto, California
+1044,The Cheesecake Factory,Happy Valley, Oregon
+1045,Buffalo wild wings,Fishers, Indiana
+1046,Starbucks,Denver, Colorado
+1047,Dunkin donuts,Huntersville, North Carolina
+1048,Little Caesars Pizza,Davison, Michigan
+1049,Sonic,Chandler, Oklahoma
+1050,Olive Garden,Vestal, New York
+1051,McDonalds,Fuquay Varina, North Carolina
+1052,McDonalds,Birmingham, Alabama
+1053,Subway,Neenah, Wisconsin
+1054,Other,, England
+1055,McDonalds,Auburndale, Florida
+1056,Five Guys,Cary, North Carolina
+1057,Subway,, England
+1058,McDonalds,Midland, Ontario
+1059,Wendy's,Chula Vista, California
+1060,Little Caesars Pizza,Hutto, Texas
+1061,Chipotle Mexican Grill,West Hartford, Connecticut
+1062,Panda Express,Frisco, Texas
+1063,Domino's Pizza,Stoke-on-Trent, England
+1064,Popeyes,Honolulu, Hawaii
+1065,Raising Canes,Centerville, Ohio
+1066,Yard House,Pasadena, California
+1067,Panda Express,Antioch, California
+1068,Tijuana Flats,Lutz, Florida
+1069,Whole Foods Market,Los Angeles, California
+1070,Other,Tucson, Arizona
+1071,Pizza Hut,Fairburn, GA
+1072,Walmart,South Jordan, Utah
+1073,Qdoba,Louisville, Kentucky
+1074,Chick-Fil-A,Brownsville, Texas
+1075,Costco,Durham, North Carolina
+1076,Other,Punta Cana, La Altagracia
+1077,McDonalds,Cumming, Georgia
+1078,McDonalds,Taylor, Michigan
+1079,Sonic,Winter Haven, Florida
+1080,Burger King,Tarpon Springs, Florida
+1081,McDonalds,Highlands Ranch, Colorado
+1082,McDonalds,Dearborn Heights, Michigan
+1083,Chipotle Mexican Grill,Scottsdale, Arizona
+1084,Other,Milwaukee, Wisconsin
+1085,Taco Bell,Covington, Washington
+1086,Chipotle Mexican Grill,Marysville, Ohio
+1087,Costco,Kansas City, Missouri
+1088,Subway,New Westminster, British Columbia
+1089,Whole Foods Market,Virginia Beach, Virginia
+1090,Chipotle Mexican Grill,Folsom, California
+1091,Burger King,Fresno, California
+1092,Applebee's,La Crosse, Virginia
+1093,Sweet Tomatoes,Bradenton, Florida
+1094,The Melting Pot,Portland, Oregon
+1095,Other,Plano, Texas
+1096,McDonalds,Junction City, Kansas
+1097,Buffalo wild wings,Warrensburg, Missouri
+1098,Taco Bell,Chicago, Illinois
+1099,Chipotle Mexican Grill,New York, New York
+1100,Other,Costa Mesa, California
+1101,Taco Bell,Mishawaka, Indiana
+1102,Taco Bell,Hicksville, New York
+1103,Chipotle Mexican Grill,Dallas, Texas
+1104,Other,Salt Lake City, Utah
+1105,Other,Las Vegas, Nevada
+1106,Arby's,Spring, Texas
+1107,Sonic,Ville Platte, Louisiana
+1108,Chipotle Mexican Grill,Dallas, Texas
+1109,Other,Fort Collins, Colorado
+1110,Chipotle Mexican Grill,Pasadena, California
+1111,Chick-Fil-A,Bryan, Texas
+1112,Papa John's,Kent, Ohio
+1113,Taco Bell,Las Cruces, New Mexico
+1114,McDonalds,Saugerties, New York
+1115,Chipotle Mexican Grill,El Paso, Texas
+1116,Disneyland,Anaheim, California
+1117,Jack in the Box,Corona, California
+1118,Chipotle Mexican Grill,Orlando, Florida
+1119,Taco Bell,Dora, Alabama
+1120,Wendy's,Greenville, Michigan
+1121,Other,Immokalee, Florida
+1122,Chipotle Mexican Grill,Arvada, Colorado
+1123,McDonalds,Tompkinsville, Kentucky
+1124,Little Caesars Pizza,West Jordan, Utah
+1125,Mellow mushroom,Mount Pleasant, South Carolina
+1126,Moe's Southwest grill,Evansville, Indiana
+1127,Wendy's,Rancho Mirage, California
+1128,McDonalds,Denver, Colorado
+1129,Chipotle Mexican Grill,Hopkins, Minnesota
+1130,Chipotle Mexican Grill,Pasadena, California
+1131,Burger King,New York, New York
+1132,Other,Windsor, Ontario
+1133,Target,Bristol, Virginia
+1134,Domino's Pizza,Maryville, Tennessee
+1135,Sonic,Grove City, Ohio
+1136,Popeyes,Richmond, Virginia
+1137,Little Caesars Pizza,Charlotte, North Carolina
+1138,Other,Haddonfield, New Jersey
+1139,Delta Airlines,Houston, Texas
+1140,Other,Fairport, New York
+1141,Taco Bell,Lynchburg, Virginia
+1142,Buffalo wild wings,Champaign, Illinois
+1143,Applebee's,Federal Way, Washington
+1144,Domino's Pizza,Wahiawa, Hawaii
+1145,Other,Papendrecht, Zuid-Holland
+1146,Whole Foods Market,Exton, Pennsylvania
+1147,Wendy's,Bushnell, Florida
+1148,Subway,Hamilton, Ontario
+1149,McDonalds,Toledo, Ohio
+1150,Other,Singapore, 
+1151,Starbucks,Las Vegas, Nevada
+1152,Jack in the Box,, 
+1153,Chick-Fil-A,Gilbert, Arizona
+1154,Trader Joe's,Santa Clarita, California
+1155,Carl's Jr,West Valley City, Utah
+1156,McDonalds,Tumwater, Washington
+1157,Other,Silver Spring, Maryland
+1158,Chipotle Mexican Grill,Los Angeles, California
+1159,Other,Pittsburgh, Pennsylvania
+1160,Delta Airlines,Honolulu, Hawaii
+1161,Burger King,Ocala, Florida
+1162,Panda Express,Phoenix, Arizona
+1163,Trader Joe's,Burbank, California
+1164,Wawa,Langhorne, Pennsylvania
+1165,Other,Mauldin, South Carolina
+1166,Panera Bread,Knoxville, TN
+1167,Panda Express,Henderson, Nevada
+1168,Arby's,Garland, Texas
+1169,Other,Johnson City, Tennessee
+1170,Panda Express,Renton, Washington
+1171,Other,Little Rock, Arkansas
+1172,Other,Santa Fe, New Mexico
+1173,Popeyes,Fairfax, Virginia
+1174,Shari's,Meridian, Idaho
+1175,Subway,Ormond Beach, Florida
+1176,Costco,Red Deer, Alberta
+1177,Shake Shack,Detroit, Michigan
+1178,Charleys Philly Steaks,Columbus, Ohio
+1179,Wendy's,Greenwood Village, Colorado
+1180,Subway,Hamilton, Ontario
+1181,Long John Silver's,Stillwater, Oklahoma
+1182,A&amp;W,Monroe, Michigan
+1183,Other,Wichita, Kansas
+1184,Whole Foods Market,Jericho, New York
+1185,Burger King,Quincy, Massachusetts
+1186,Other,Rohnert Park, California
+1187,Other,, 
+1188,Subway,Stanhope Gardens, New South Wales
+1189,Sweetgreen,Philadelphia, Pennsylvania
+1190,Applebee's,Baldwin, New York
+1191,Cracker Barrel,Dickson, Tennessee
+1192,Taco Bell,Chandler, Arizona
+1193,Other,, New York
+1194,IHOP,Northglenn, Colorado
+1195,Chipotle Mexican Grill,Hillsboro, Oregon
+1196,Popeyes,Toronto, Ontario
+1197,Domino's Pizza,Louisville, Kentucky
+1198,Chipotle Mexican Grill,Woodbridge, Virginia
+1199,Raising Canes,Glendale, Arizona
+1200,The Cheesecake Factory,Austin, Texas
+1201,Dunkin donuts,Chicago, Illinois
+1202,Chipotle Mexican Grill,Wilmington, North Carolina
+1203,Chick-Fil-A,Irving, Texas
+1204,Costco,Frederick, Maryland
+1205,Zaxby's,Commerce, Georgia
+1206,Domino's Pizza,Kalamazoo, Michigan
+1207,Subway,Mondovi, Wisconsin
+1208,Domino's Pizza,Warrensburg, Missouri
+1209,Other,Ann Arbor, Michigan
+1210,Whataburger,Katy, Texas
+1211,Pret a Manger,Chicago, Illinois
+1212,Dunkin donuts,Smyrna, Georgia
+1213,KFC,, County Limerick
+1214,Subway,London, Ontario
+1215,Bob Evans,Chillicothe, Ohio
+1216,Other,Los Angeles, California
+1217,McDonalds,Bergenfield, New Jersey
+1218,Safeway,Keizer, Oregon
+1219,Costco,Gilbert, Arizona
+1220,Other,Detroit, Michigan
+1221,Arby's,Warner Robins, Georgia
+1222,Wendy's,St. Catharines, Ontario
+1223,Denny's,Orlando, Florida
+1224,KFC,, Scotland
+1225,Other,Cape Town, Western Cape
+1226,Wendy's,Chicago, Illinois
+1227,Qdoba,Creve Coeur, Missouri
+1228,Taco Bell,Kirksville, Missouri
+1229,Popeyes,Pelham, Alabama
+1230,KFC,Marion, Iowa
+1231,Chipotle Mexican Grill,Goleta, California
+1232,Greggs,, England
+1233,Dairy Queen,Wichita, Kansas
+1234,Chipotle Mexican Grill,Seattle, Washington
+1235,Subway,Miami, Florida
+1236,Olive Garden,Pensacola, Florida
+1237,Wendy's,Hadley, Massachusetts
+1238,Other,Fairlawn, Ohio
+1239,KFC,, Vermont
+1240,Subway,Baldwin, Michigan
+1241,Chipotle Mexican Grill,Lake Oswego, Oregon
+1242,Jack in the Box,Modesto, California
+1243,Jack in the Box,Modesto, California
+1244,The Cheesecake Factory,Happy Valley, Oregon
+1245,Buffalo wild wings,Fishers, Indiana
+1246,Starbucks,Denver, Colorado
+1247,Dunkin donuts,Huntersville, North Carolina
+1248,Little Caesars Pizza,Davison, Michigan
+1249,Sonic,Chandler, Oklahoma
+1250,Olive Garden,Vestal, New York
+1251,McDonalds,Fuquay Varina, North Carolina
+1252,McDonalds,Birmingham, Alabama
+1253,Subway,Neenah, Wisconsin
+1254,Other,, England
+1255,McDonalds,Auburndale, Florida
+1256,Five Guys,Cary, North Carolina
+1257,Subway,, England
+1258,McDonalds,Midland, Ontario
+1259,Wendy's,Chula Vista, California
+1260,Little Caesars Pizza,Hutto, Texas
+1261,Chipotle Mexican Grill,West Hartford, Connecticut
+1262,Panda Express,Frisco, Texas
+1263,Domino's Pizza,Stoke-on-Trent, England
+1264,Popeyes,Honolulu, Hawaii
+1265,Raising Canes,Centerville, Ohio
+1266,Yard House,Pasadena, California
+1267,Panda Express,Antioch, California
+1268,Tijuana Flats,Lutz, Florida
+1269,Whole Foods Market,Los Angeles, California
+1270,Other,Tucson, Arizona
+1271,Pizza Hut,Fairburn, GA
+1272,Walmart,South Jordan, Utah
+1273,Qdoba,Louisville, Kentucky
+1274,Chick-Fil-A,Brownsville, Texas
+1275,Costco,Durham, North Carolina
+1276,Other,Punta Cana, La Altagracia
+1277,McDonalds,Cumming, Georgia
+1278,McDonalds,Taylor, Michigan
+1279,Sonic,Winter Haven, Florida
+1280,Burger King,Tarpon Springs, Florida
+1281,McDonalds,Highlands Ranch, Colorado
+1282,McDonalds,Dearborn Heights, Michigan
+1283,Chipotle Mexican Grill,Scottsdale, Arizona
+1284,Other,Milwaukee, Wisconsin
+1285,Taco Bell,Covington, Washington
+1286,Chipotle Mexican Grill,Marysville, Ohio
+1287,Costco,Kansas City, Missouri
+1288,Subway,New Westminster, British Columbia
+1289,Whole Foods Market,Virginia Beach, Virginia
+1290,Chipotle Mexican Grill,Folsom, California
+1291,Burger King,Fresno, California
+1292,Applebee's,La Crosse, Virginia
+1293,Sweet Tomatoes,Bradenton, Florida
+1294,The Melting Pot,Portland, Oregon
+1295,Other,Plano, Texas
+1296,McDonalds,Junction City, Kansas
+1297,Buffalo wild wings,Warrensburg, Missouri
+1298,Taco Bell,Chicago, Illinois
+1299,Chipotle Mexican Grill,New York, New York
+1300,Other,Costa Mesa, California
+1301,Taco Bell,Mishawaka, Indiana
+1302,Taco Bell,Hicksville, New York
+1303,Chipotle Mexican Grill,Dallas, Texas
+1304,Other,Salt Lake City, Utah
+1305,Other,Las Vegas, Nevada
+1306,Arby's,Spring, Texas
+1307,Sonic,Ville Platte, Louisiana
+1308,Chipotle Mexican Grill,Dallas, Texas
+1309,Other,Fort Collins, Colorado
+1310,Chipotle Mexican Grill,Pasadena, California
+1311,Chick-Fil-A,Bryan, Texas
+1312,Papa John's,Kent, Ohio
+1313,Taco Bell,Las Cruces, New Mexico
+1314,McDonalds,Saugerties, New York
+1315,Chipotle Mexican Grill,El Paso, Texas
+1316,Disneyland,Anaheim, California
+1317,Jack in the Box,Corona, California
+1318,Chipotle Mexican Grill,Orlando, Florida
+1319,Taco Bell,Dora, Alabama
+1320,Wendy's,Greenville, Michigan
+1321,Other,Immokalee, Florida
+1322,Chipotle Mexican Grill,Arvada, Colorado
+1323,McDonalds,Tompkinsville, Kentucky
+1324,Little Caesars Pizza,West Jordan, Utah
+1325,Mellow mushroom,Mount Pleasant, South Carolina
+1326,Moe's Southwest grill,Evansville, Indiana
+1327,Wendy's,Rancho Mirage, California
+1328,McDonalds,Denver, Colorado
+1329,Chipotle Mexican Grill,Hopkins, Minnesota
+1330,Chipotle Mexican Grill,Pasadena, California
+1331,Burger King,New York, New York
+1332,Other,Windsor, Ontario
+1333,Target,Bristol, Virginia
+1334,Domino's Pizza,Maryville, Tennessee
+1335,Sonic,Grove City, Ohio
+1336,Popeyes,Richmond, Virginia
+1337,Little Caesars Pizza,Charlotte, North Carolina
+1338,Other,Haddonfield, New Jersey
+1339,Delta Airlines,Houston, Texas
+1340,Other,Fairport, New York
+1341,Taco Bell,Lynchburg, Virginia
+1342,Buffalo wild wings,Champaign, Illinois
+1343,Applebee's,Federal Way, Washington
+1344,Domino's Pizza,Wahiawa, Hawaii
+1345,Other,Papendrecht, Zuid-Holland
+1346,Whole Foods Market,Exton, Pennsylvania
+1347,Wendy's,Bushnell, Florida
+1348,Subway,Hamilton, Ontario
+1349,McDonalds,Toledo, Ohio
+1350,Other,Singapore, 
+1351,Starbucks,Las Vegas, Nevada
+1352,Jack in the Box,, 
+1353,Chick-Fil-A,Gilbert, Arizona
+1354,Trader Joe's,Santa Clarita, California
+1355,Carl's Jr,West Valley City, Utah
+1356,McDonalds,Tumwater, Washington
+1357,Other,Silver Spring, Maryland
+1358,Chipotle Mexican Grill,Los Angeles, California
+1359,Other,Pittsburgh, Pennsylvania
+1360,Delta Airlines,Honolulu, Hawaii
+1361,Burger King,Ocala, Florida
+1362,Panda Express,Phoenix, Arizona
+1363,Trader Joe's,Burbank, California
+1364,Wawa,Langhorne, Pennsylvania
+1365,Other,Mauldin, South Carolina
+1366,Panera Bread,Knoxville, TN
+1367,Panda Express,Henderson, Nevada
+1368,Arby's,Garland, Texas
+1369,Other,Johnson City, Tennessee
+1370,Panda Express,Renton, Washington
+1371,Other,Little Rock, Arkansas
+1372,Other,Santa Fe, New Mexico
+1373,Popeyes,Fairfax, Virginia
+1374,Shari's,Meridian, Idaho
+1375,Subway,Ormond Beach, Florida
+1376,Costco,Red Deer, Alberta
+1377,Shake Shack,Detroit, Michigan
+1378,Charleys Philly Steaks,Columbus, Ohio
+1379,Wendy's,Greenwood Village, Colorado
+1380,Subway,Hamilton, Ontario
+1381,Long John Silver's,Stillwater, Oklahoma
+1382,A&amp;W,Monroe, Michigan
+1383,Other,Wichita, Kansas
+1384,Whole Foods Market,Jericho, New York
+1385,Burger King,Quincy, Massachusetts
+1386,Other,Rohnert Park, California
+1387,Other,, 
+1388,Subway,Stanhope Gardens, New South Wales
+1389,Sweetgreen,Philadelphia, Pennsylvania
+1390,Applebee's,Baldwin, New York
+1391,Cracker Barrel,Dickson, Tennessee
+1392,Taco Bell,Chandler, Arizona
+1393,Other,, New York
+1394,IHOP,Northglenn, Colorado
+1395,Chipotle Mexican Grill,Hillsboro, Oregon
+1396,Popeyes,Toronto, Ontario
+1397,Domino's Pizza,Louisville, Kentucky
+1398,Chipotle Mexican Grill,Woodbridge, Virginia
+1399,Raising Canes,Glendale, Arizona
+1400,The Cheesecake Factory,Austin, Texas
+1401,Dunkin donuts,Chicago, Illinois
+1402,Chipotle Mexican Grill,Wilmington, North Carolina
+1403,Chick-Fil-A,Irving, Texas
+1404,Costco,Frederick, Maryland
+1405,Zaxby's,Commerce, Georgia
+1406,Domino's Pizza,Kalamazoo, Michigan
+1407,Subway,Mondovi, Wisconsin
+1408,Domino's Pizza,Warrensburg, Missouri
+1409,Other,Ann Arbor, Michigan
+1410,Whataburger,Katy, Texas
+1411,Pret a Manger,Chicago, Illinois
+1412,Dunkin donuts,Smyrna, Georgia
+1413,KFC,, County Limerick
+1414,Subway,London, Ontario
+1415,Bob Evans,Chillicothe, Ohio
+1416,Other,Los Angeles, California
+1417,McDonalds,Bergenfield, New Jersey
+1418,Safeway,Keizer, Oregon
+1419,Costco,Gilbert, Arizona
+1420,Other,Detroit, Michigan
+1421,Arby's,Warner Robins, Georgia
+1422,Wendy's,St. Catharines, Ontario
+1423,Denny's,Orlando, Florida
+1424,KFC,, Scotland
+1425,Other,Cape Town, Western Cape
+1426,Wendy's,Chicago, Illinois
+1427,Qdoba,Creve Coeur, Missouri
+1428,Taco Bell,Kirksville, Missouri
+1429,Popeyes,Pelham, Alabama
+1430,KFC,Marion, Iowa
+1431,Chipotle Mexican Grill,Goleta, California
+1432,Greggs,, England
+1433,Dairy Queen,Wichita, Kansas
+1434,Chipotle Mexican Grill,Seattle, Washington
+1435,Subway,Miami, Florida
+1436,Olive Garden,Pensacola, Florida
+1437,Wendy's,Hadley, Massachusetts
+1438,Other,Fairlawn, Ohio
+1439,KFC,, Vermont
+1440,Subway,Baldwin, Michigan
+1441,Chipotle Mexican Grill,Lake Oswego, Oregon
+1442,Jack in the Box,Modesto, California
+1443,Jack in the Box,Modesto, California
+1444,The Cheesecake Factory,Happy Valley, Oregon
+1445,Buffalo wild wings,Fishers, Indiana
+1446,Starbucks,Denver, Colorado
+1447,Dunkin donuts,Huntersville, North Carolina
+1448,Little Caesars Pizza,Davison, Michigan
+1449,Sonic,Chandler, Oklahoma
+1450,Olive Garden,Vestal, New York
+1451,McDonalds,Fuquay Varina, North Carolina
+1452,McDonalds,Birmingham, Alabama
+1453,Subway,Neenah, Wisconsin
+1454,Other,, England
+1455,McDonalds,Auburndale, Florida
+1456,Five Guys,Cary, North Carolina
+1457,Subway,, England
+1458,McDonalds,Midland, Ontario
+1459,Wendy's,Chula Vista, California
+1460,Little Caesars Pizza,Hutto, Texas
+1461,Chipotle Mexican Grill,West Hartford, Connecticut
+1462,Panda Express,Frisco, Texas
+1463,Domino's Pizza,Stoke-on-Trent, England
+1464,Popeyes,Honolulu, Hawaii
+1465,Raising Canes,Centerville, Ohio
+1466,Yard House,Pasadena, California
+1467,Panda Express,Antioch, California
+1468,Tijuana Flats,Lutz, Florida
+1469,Whole Foods Market,Los Angeles, California
+1470,Other,Tucson, Arizona
+1471,Pizza Hut,Fairburn, GA
+1472,Walmart,South Jordan, Utah
+1473,Qdoba,Louisville, Kentucky
+1474,Chick-Fil-A,Brownsville, Texas
+1475,Costco,Durham, North Carolina
+1476,Other,Punta Cana, La Altagracia
+1477,McDonalds,Cumming, Georgia
+1478,McDonalds,Taylor, Michigan
+1479,Sonic,Winter Haven, Florida
+1480,Burger King,Tarpon Springs, Florida
+1481,McDonalds,Highlands Ranch, Colorado
+1482,McDonalds,Dearborn Heights, Michigan
+1483,Chipotle Mexican Grill,Scottsdale, Arizona
+1484,Other,Milwaukee, Wisconsin
+1485,Taco Bell,Covington, Washington
+1486,Chipotle Mexican Grill,Marysville, Ohio
+1487,Costco,Kansas City, Missouri
+1488,Subway,New Westminster, British Columbia
+1489,Whole Foods Market,Virginia Beach, Virginia
+1490,Chipotle Mexican Grill,Folsom, California
+1491,Burger King,Fresno, California
+1492,Applebee's,La Crosse, Virginia
+1493,Sweet Tomatoes,Bradenton, Florida
+1494,The Melting Pot,Portland, Oregon
+1495,Other,Plano, Texas
+1496,McDonalds,Junction City, Kansas
+1497,Buffalo wild wings,Warrensburg, Missouri
+1498,Taco Bell,Chicago, Illinois
+1499,Chipotle Mexican Grill,New York, New York
+1500,Other,Costa Mesa, California
+1501,Taco Bell,Mishawaka, Indiana
+1502,Taco Bell,Hicksville, New York
+1503,Chipotle Mexican Grill,Dallas, Texas
+1504,Other,Salt Lake City, Utah
+1505,Other,Las Vegas, Nevada
+1506,Arby's,Spring, Texas
+1507,Sonic,Ville Platte, Louisiana
+1508,Chipotle Mexican Grill,Dallas, Texas
+1509,Other,Fort Collins, Colorado
+1510,Chipotle Mexican Grill,Pasadena, California
+1511,Chick-Fil-A,Bryan, Texas
+1512,Papa John's,Kent, Ohio
+1513,Taco Bell,Las Cruces, New Mexico
+1514,McDonalds,Saugerties, New York
+1515,Chipotle Mexican Grill,El Paso, Texas
+1516,Disneyland,Anaheim, California
+1517,Jack in the Box,Corona, California
+1518,Chipotle Mexican Grill,Orlando, Florida
+1519,Taco Bell,Dora, Alabama
+1520,Wendy's,Greenville, Michigan
+1521,Other,Immokalee, Florida
+1522,Chipotle Mexican Grill,Arvada, Colorado
+1523,McDonalds,Tompkinsville, Kentucky
+1524,Little Caesars Pizza,West Jordan, Utah
+1525,Mellow mushroom,Mount Pleasant, South Carolina
+1526,Moe's Southwest grill,Evansville, Indiana
+1527,Wendy's,Rancho Mirage, California
+1528,McDonalds,Denver, Colorado
+1529,Chipotle Mexican Grill,Hopkins, Minnesota
+1530,Chipotle Mexican Grill,Pasadena, California
+1531,Burger King,New York, New York
+1532,Other,Windsor, Ontario
+1533,Target,Bristol, Virginia
+1534,Domino's Pizza,Maryville, Tennessee
+1535,Sonic,Grove City, Ohio
+1536,Popeyes,Richmond, Virginia
+1537,Little Caesars Pizza,Charlotte, North Carolina
+1538,Other,Haddonfield, New Jersey
+1539,Delta Airlines,Houston, Texas
+1540,Other,Fairport, New York
+1541,Taco Bell,Lynchburg, Virginia
+1542,Buffalo wild wings,Champaign, Illinois
+1543,Applebee's,Federal Way, Washington
+1544,Domino's Pizza,Wahiawa, Hawaii
+1545,Other,Papendrecht, Zuid-Holland
+1546,Whole Foods Market,Exton, Pennsylvania
+1547,Wendy's,Bushnell, Florida
+1548,Subway,Hamilton, Ontario
+1549,McDonalds,Toledo, Ohio
+1550,Other,Singapore, 
+1551,Starbucks,Las Vegas, Nevada
+1552,Jack in the Box,, 
+1553,Chick-Fil-A,Gilbert, Arizona
+1554,Trader Joe's,Santa Clarita, California
+1555,Carl's Jr,West Valley City, Utah
+1556,McDonalds,Tumwater, Washington
+1557,Other,Silver Spring, Maryland
+1558,Chipotle Mexican Grill,Los Angeles, California
+1559,Other,Pittsburgh, Pennsylvania
+1560,Delta Airlines,Honolulu, Hawaii
+1561,Burger King,Ocala, Florida
+1562,Panda Express,Phoenix, Arizona
+1563,Trader Joe's,Burbank, California
+1564,Wawa,Langhorne, Pennsylvania
+1565,Other,Mauldin, South Carolina
+1566,Panera Bread,Knoxville, TN
+1567,Panda Express,Henderson, Nevada
+1568,Arby's,Garland, Texas
+1569,Other,Johnson City, Tennessee
+1570,Panda Express,Renton, Washington
+1571,Other,Little Rock, Arkansas
+1572,Other,Santa Fe, New Mexico
+1573,Popeyes,Fairfax, Virginia
+1574,Shari's,Meridian, Idaho
+1575,Subway,Ormond Beach, Florida
+1576,Costco,Red Deer, Alberta
+1577,Shake Shack,Detroit, Michigan
+1578,Charleys Philly Steaks,Columbus, Ohio
+1579,Wendy's,Greenwood Village, Colorado
+1580,Subway,Hamilton, Ontario
+1581,Long John Silver's,Stillwater, Oklahoma
+1582,A&amp;W,Monroe, Michigan
+1583,Other,Wichita, Kansas
+1584,Whole Foods Market,Jericho, New York
+1585,Burger King,Quincy, Massachusetts
+1586,Other,Rohnert Park, California
+1587,Other,, 
+1588,Subway,Stanhope Gardens, New South Wales
+1589,Sweetgreen,Philadelphia, Pennsylvania
+1590,Applebee's,Baldwin, New York
+1591,Cracker Barrel,Dickson, Tennessee
+1592,Taco Bell,Chandler, Arizona
+1593,Other,, New York
+1594,IHOP,Northglenn, Colorado
+1595,Chipotle Mexican Grill,Hillsboro, Oregon
+1596,Popeyes,Toronto, Ontario
+1597,Domino's Pizza,Louisville, Kentucky
+1598,Chipotle Mexican Grill,Woodbridge, Virginia
+1599,Raising Canes,Glendale, Arizona
+1600,The Cheesecake Factory,Austin, Texas
+1601,Dunkin donuts,Chicago, Illinois
+1602,Chipotle Mexican Grill,Wilmington, North Carolina
+1603,Chick-Fil-A,Irving, Texas
+1604,Costco,Frederick, Maryland
+1605,Zaxby's,Commerce, Georgia
+1606,Domino's Pizza,Kalamazoo, Michigan
+1607,Subway,Mondovi, Wisconsin
+1608,Domino's Pizza,Warrensburg, Missouri
+1609,Other,Ann Arbor, Michigan
+1610,Whataburger,Katy, Texas
+1611,Pret a Manger,Chicago, Illinois
+1612,Dunkin donuts,Smyrna, Georgia
+1613,KFC,, County Limerick
+1614,Subway,London, Ontario
+1615,Bob Evans,Chillicothe, Ohio
+1616,Other,Los Angeles, California
+1617,McDonalds,Bergenfield, New Jersey
+1618,Safeway,Keizer, Oregon
+1619,Costco,Gilbert, Arizona
+1620,Other,Detroit, Michigan
+1621,Arby's,Warner Robins, Georgia
+1622,Wendy's,St. Catharines, Ontario
+1623,Denny's,Orlando, Florida
+1624,KFC,, Scotland
+1625,Other,Cape Town, Western Cape
+1626,Wendy's,Chicago, Illinois
+1627,Qdoba,Creve Coeur, Missouri
+1628,Taco Bell,Kirksville, Missouri
+1629,Popeyes,Pelham, Alabama
+1630,KFC,Marion, Iowa
+1631,Chipotle Mexican Grill,Goleta, California
+1632,Greggs,, England
+1633,Dairy Queen,Wichita, Kansas
+1634,Chipotle Mexican Grill,Seattle, Washington
+1635,Subway,Miami, Florida
+1636,Olive Garden,Pensacola, Florida
+1637,Wendy's,Hadley, Massachusetts
+1638,Other,Fairlawn, Ohio
+1639,KFC,, Vermont
+1640,Subway,Baldwin, Michigan
+1641,Chipotle Mexican Grill,Lake Oswego, Oregon
+1642,Jack in the Box,Modesto, California
+1643,Jack in the Box,Modesto, California
+1644,The Cheesecake Factory,Happy Valley, Oregon
+1645,Buffalo wild wings,Fishers, Indiana
+1646,Starbucks,Denver, Colorado
+1647,Dunkin donuts,Huntersville, North Carolina
+1648,Little Caesars Pizza,Davison, Michigan
+1649,Sonic,Chandler, Oklahoma
+1650,Olive Garden,Vestal, New York
+1651,McDonalds,Fuquay Varina, North Carolina
+1652,McDonalds,Birmingham, Alabama
+1653,Subway,Neenah, Wisconsin
+1654,Other,, England
+1655,McDonalds,Auburndale, Florida
+1656,Five Guys,Cary, North Carolina
+1657,Subway,, England
+1658,McDonalds,Midland, Ontario
+1659,Wendy's,Chula Vista, California
+1660,Little Caesars Pizza,Hutto, Texas
+1661,Chipotle Mexican Grill,West Hartford, Connecticut
+1662,Panda Express,Frisco, Texas
+1663,Domino's Pizza,Stoke-on-Trent, England
+1664,Popeyes,Honolulu, Hawaii
+1665,Raising Canes,Centerville, Ohio
+1666,Yard House,Pasadena, California
+1667,Panda Express,Antioch, California
+1668,Tijuana Flats,Lutz, Florida
+1669,Whole Foods Market,Los Angeles, California
+1670,Other,Tucson, Arizona
+1671,Pizza Hut,Fairburn, GA
+1672,Walmart,South Jordan, Utah
+1673,Qdoba,Louisville, Kentucky
+1674,Chick-Fil-A,Brownsville, Texas
+1675,Costco,Durham, North Carolina
+1676,Other,Punta Cana, La Altagracia
+1677,McDonalds,Cumming, Georgia
+1678,McDonalds,Taylor, Michigan
+1679,Sonic,Winter Haven, Florida
+1680,Burger King,Tarpon Springs, Florida
+1681,McDonalds,Highlands Ranch, Colorado
+1682,McDonalds,Dearborn Heights, Michigan
+1683,Chipotle Mexican Grill,Scottsdale, Arizona
+1684,Other,Milwaukee, Wisconsin
+1685,Taco Bell,Covington, Washington
+1686,Chipotle Mexican Grill,Marysville, Ohio
+1687,Costco,Kansas City, Missouri
+1688,Subway,New Westminster, British Columbia
+1689,Whole Foods Market,Virginia Beach, Virginia
+1690,Chipotle Mexican Grill,Folsom, California
+1691,Burger King,Fresno, California
+1692,Applebee's,La Crosse, Virginia
+1693,Sweet Tomatoes,Bradenton, Florida
+1694,The Melting Pot,Portland, Oregon
+1695,Other,Plano, Texas
+1696,McDonalds,Junction City, Kansas
+1697,Buffalo wild wings,Warrensburg, Missouri
+1698,Taco Bell,Chicago, Illinois
+1699,Chipotle Mexican Grill,New York, New York
+1700,Other,Costa Mesa, California
+1701,Taco Bell,Mishawaka, Indiana
+1702,Taco Bell,Hicksville, New York
+1703,Chipotle Mexican Grill,Dallas, Texas
+1704,Other,Salt Lake City, Utah
+1705,Other,Las Vegas, Nevada
+1706,Arby's,Spring, Texas
+1707,Sonic,Ville Platte, Louisiana
+1708,Chipotle Mexican Grill,Dallas, Texas
+1709,Other,Fort Collins, Colorado
+1710,Chipotle Mexican Grill,Pasadena, California
+1711,Chick-Fil-A,Bryan, Texas
+1712,Papa John's,Kent, Ohio
+1713,Taco Bell,Las Cruces, New Mexico
+1714,McDonalds,Saugerties, New York
+1715,Chipotle Mexican Grill,El Paso, Texas
+1716,Disneyland,Anaheim, California
+1717,Jack in the Box,Corona, California
+1718,Chipotle Mexican Grill,Orlando, Florida
+1719,Taco Bell,Dora, Alabama
+1720,Wendy's,Greenville, Michigan
+1721,Other,Immokalee, Florida
+1722,Chipotle Mexican Grill,Arvada, Colorado
+1723,McDonalds,Tompkinsville, Kentucky
+1724,Little Caesars Pizza,West Jordan, Utah
+1725,Mellow mushroom,Mount Pleasant, South Carolina
+1726,Moe's Southwest grill,Evansville, Indiana
+1727,Wendy's,Rancho Mirage, California
+1728,McDonalds,Denver, Colorado
+1729,Chipotle Mexican Grill,Hopkins, Minnesota
+1730,Chipotle Mexican Grill,Pasadena, California
+1731,Burger King,New York, New York
+1732,Other,Windsor, Ontario
+1733,Target,Bristol, Virginia
+1734,Domino's Pizza,Maryville, Tennessee
+1735,Sonic,Grove City, Ohio
+1736,Popeyes,Richmond, Virginia
+1737,Little Caesars Pizza,Charlotte, North Carolina
+1738,Other,Haddonfield, New Jersey
+1739,Delta Airlines,Houston, Texas
+1740,Other,Fairport, New York
+1741,Taco Bell,Lynchburg, Virginia
+1742,Buffalo wild wings,Champaign, Illinois
+1743,Applebee's,Federal Way, Washington
+1744,Domino's Pizza,Wahiawa, Hawaii
+1745,Other,Papendrecht, Zuid-Holland
+1746,Whole Foods Market,Exton, Pennsylvania
+1747,Wendy's,Bushnell, Florida
+1748,Subway,Hamilton, Ontario
+1749,McDonalds,Toledo, Ohio
+1750,Other,Singapore, 
+1751,Starbucks,Las Vegas, Nevada
+1752,Jack in the Box,, 
+1753,Chick-Fil-A,Gilbert, Arizona
+1754,Trader Joe's,Santa Clarita, California
+1755,Carl's Jr,West Valley City, Utah
+1756,McDonalds,Tumwater, Washington
+1757,Other,Silver Spring, Maryland
+1758,Chipotle Mexican Grill,Los Angeles, California
+1759,Other,Pittsburgh, Pennsylvania
+1760,Delta Airlines,Honolulu, Hawaii
+1761,Burger King,Ocala, Florida
+1762,Panda Express,Phoenix, Arizona
+1763,Trader Joe's,Burbank, California
+1764,Wawa,Langhorne, Pennsylvania
+1765,Other,Mauldin, South Carolina
+1766,Panera Bread,Knoxville, TN
+1767,Panda Express,Henderson, Nevada
+1768,Arby's,Garland, Texas
+1769,Other,Johnson City, Tennessee
+1770,Panda Express,Renton, Washington
+1771,Other,Little Rock, Arkansas
+1772,Other,Santa Fe, New Mexico
+1773,Popeyes,Fairfax, Virginia
+1774,Shari's,Meridian, Idaho
+1775,Subway,Ormond Beach, Florida
+1776,Costco,Red Deer, Alberta
+1777,Shake Shack,Detroit, Michigan
+1778,Charleys Philly Steaks,Columbus, Ohio
+1779,Wendy's,Greenwood Village, Colorado
+1780,Subway,Hamilton, Ontario
+1781,Long John Silver's,Stillwater, Oklahoma
+1782,A&amp;W,Monroe, Michigan
+1783,Other,Wichita, Kansas
+1784,Whole Foods Market,Jericho, New York
+1785,Burger King,Quincy, Massachusetts
+1786,Other,Rohnert Park, California
+1787,Other,, 
+1788,Subway,Stanhope Gardens, New South Wales
+1789,Sweetgreen,Philadelphia, Pennsylvania
+1790,Applebee's,Baldwin, New York
+1791,Cracker Barrel,Dickson, Tennessee
+1792,Taco Bell,Chandler, Arizona
+1793,Other,, New York
+1794,IHOP,Northglenn, Colorado
+1795,Chipotle Mexican Grill,Hillsboro, Oregon
+1796,Popeyes,Toronto, Ontario
+1797,Domino's Pizza,Louisville, Kentucky
+1798,Chipotle Mexican Grill,Woodbridge, Virginia
+1799,Raising Canes,Glendale, Arizona
+1800,The Cheesecake Factory,Austin, Texas
+1801,Dunkin donuts,Chicago, Illinois
+1802,Chipotle Mexican Grill,Wilmington, North Carolina
+1803,Chick-Fil-A,Irving, Texas
+1804,Costco,Frederick, Maryland
+1805,Zaxby's,Commerce, Georgia
+1806,Domino's Pizza,Kalamazoo, Michigan
+1807,Subway,Mondovi, Wisconsin
+1808,Domino's Pizza,Warrensburg, Missouri
+1809,Other,Ann Arbor, Michigan
+1810,Whataburger,Katy, Texas
+1811,Pret a Manger,Chicago, Illinois
+1812,Dunkin donuts,Smyrna, Georgia
+1813,KFC,, County Limerick
+1814,Subway,London, Ontario
+1815,Bob Evans,Chillicothe, Ohio
+1816,Other,Los Angeles, California
+1817,McDonalds,Bergenfield, New Jersey
+1818,Safeway,Keizer, Oregon
+1819,Costco,Gilbert, Arizona
+1820,Other,Detroit, Michigan
+1821,Arby's,Warner Robins, Georgia
+1822,Wendy's,St. Catharines, Ontario
+1823,Denny's,Orlando, Florida
+1824,KFC,, Scotland
+1825,Other,Cape Town, Western Cape
+1826,Wendy's,Chicago, Illinois
+1827,Qdoba,Creve Coeur, Missouri
+1828,Taco Bell,Kirksville, Missouri
+1829,Popeyes,Pelham, Alabama
+1830,KFC,Marion, Iowa
+1831,Chipotle Mexican Grill,Goleta, California
+1832,Greggs,, England
+1833,Dairy Queen,Wichita, Kansas
+1834,Chipotle Mexican Grill,Seattle, Washington
+1835,Subway,Miami, Florida
+1836,Olive Garden,Pensacola, Florida
+1837,Wendy's,Hadley, Massachusetts
+1838,Other,Fairlawn, Ohio
+1839,KFC,, Vermont
+1840,Subway,Baldwin, Michigan
+1841,Chipotle Mexican Grill,Lake Oswego, Oregon
+1842,Jack in the Box,Modesto, California
+1843,Jack in the Box,Modesto, California
+1844,The Cheesecake Factory,Happy Valley, Oregon
+1845,Buffalo wild wings,Fishers, Indiana
+1846,Starbucks,Denver, Colorado
+1847,Dunkin donuts,Huntersville, North Carolina
+1848,Little Caesars Pizza,Davison, Michigan
+1849,Sonic,Chandler, Oklahoma
+1850,Olive Garden,Vestal, New York
+1851,McDonalds,Fuquay Varina, North Carolina
+1852,McDonalds,Birmingham, Alabama
+1853,Subway,Neenah, Wisconsin
+1854,Other,, England
+1855,McDonalds,Auburndale, Florida
+1856,Five Guys,Cary, North Carolina
+1857,Subway,, England
+1858,McDonalds,Midland, Ontario
+1859,Wendy's,Chula Vista, California
+1860,Little Caesars Pizza,Hutto, Texas
+1861,Chipotle Mexican Grill,West Hartford, Connecticut
+1862,Panda Express,Frisco, Texas
+1863,Domino's Pizza,Stoke-on-Trent, England
+1864,Popeyes,Honolulu, Hawaii
+1865,Raising Canes,Centerville, Ohio
+1866,Yard House,Pasadena, California
+1867,Panda Express,Antioch, California
+1868,Tijuana Flats,Lutz, Florida
+1869,Whole Foods Market,Los Angeles, California
+1870,Other,Tucson, Arizona
+1871,Pizza Hut,Fairburn, GA
+1872,Walmart,South Jordan, Utah
+1873,Qdoba,Louisville, Kentucky
+1874,Chick-Fil-A,Brownsville, Texas
+1875,Costco,Durham, North Carolina
+1876,Other,Punta Cana, La Altagracia
+1877,McDonalds,Cumming, Georgia
+1878,McDonalds,Taylor, Michigan
+1879,Sonic,Winter Haven, Florida
+1880,Burger King,Tarpon Springs, Florida
+1881,McDonalds,Highlands Ranch, Colorado
+1882,McDonalds,Dearborn Heights, Michigan
+1883,Chipotle Mexican Grill,Scottsdale, Arizona
+1884,Other,Milwaukee, Wisconsin
+1885,Taco Bell,Covington, Washington
+1886,Chipotle Mexican Grill,Marysville, Ohio
+1887,Costco,Kansas City, Missouri
+1888,Subway,New Westminster, British Columbia
+1889,Whole Foods Market,Virginia Beach, Virginia
+1890,Chipotle Mexican Grill,Folsom, California
+1891,Burger King,Fresno, California
+1892,Applebee's,La Crosse, Virginia
+1893,Sweet Tomatoes,Bradenton, Florida
+1894,The Melting Pot,Portland, Oregon
+1895,Other,Plano, Texas
+1896,McDonalds,Junction City, Kansas
+1897,Buffalo wild wings,Warrensburg, Missouri
+1898,Taco Bell,Chicago, Illinois
+1899,Chipotle Mexican Grill,New York, New York
+1900,Other,Costa Mesa, California
+1901,Taco Bell,Mishawaka, Indiana
+1902,Taco Bell,Hicksville, New York
+1903,Chipotle Mexican Grill,Dallas, Texas
+1904,Other,Salt Lake City, Utah
+1905,Other,Las Vegas, Nevada
+1906,Arby's,Spring, Texas
+1907,Sonic,Ville Platte, Louisiana
+1908,Chipotle Mexican Grill,Dallas, Texas
+1909,Other,Fort Collins, Colorado
+1910,Chipotle Mexican Grill,Pasadena, California
+1911,Chick-Fil-A,Bryan, Texas
+1912,Papa John's,Kent, Ohio
+1913,Taco Bell,Las Cruces, New Mexico
+1914,McDonalds,Saugerties, New York
+1915,Chipotle Mexican Grill,El Paso, Texas
+1916,Disneyland,Anaheim, California
+1917,Jack in the Box,Corona, California
+1918,Chipotle Mexican Grill,Orlando, Florida
+1919,Taco Bell,Dora, Alabama
+1920,Wendy's,Greenville, Michigan
+1921,Other,Immokalee, Florida
+1922,Chipotle Mexican Grill,Arvada, Colorado
+1923,McDonalds,Tompkinsville, Kentucky
+1924,Little Caesars Pizza,West Jordan, Utah
+1925,Mellow mushroom,Mount Pleasant, South Carolina
+1926,Moe's Southwest grill,Evansville, Indiana
+1927,Wendy's,Rancho Mirage, California
+1928,McDonalds,Denver, Colorado
+1929,Chipotle Mexican Grill,Hopkins, Minnesota
+1930,Chipotle Mexican Grill,Pasadena, California
+1931,Burger King,New York, New York
+1932,Other,Windsor, Ontario
+1933,Target,Bristol, Virginia
+1934,Domino's Pizza,Maryville, Tennessee
+1935,Sonic,Grove City, Ohio
+1936,Popeyes,Richmond, Virginia
+1937,Little Caesars Pizza,Charlotte, North Carolina
+1938,Other,Haddonfield, New Jersey
+1939,Delta Airlines,Houston, Texas
+1940,Other,Fairport, New York
+1941,Taco Bell,Lynchburg, Virginia
+1942,Buffalo wild wings,Champaign, Illinois
+1943,Applebee's,Federal Way, Washington
+1944,Domino's Pizza,Wahiawa, Hawaii
+1945,Other,Papendrecht, Zuid-Holland
+1946,Whole Foods Market,Exton, Pennsylvania
+1947,Wendy's,Bushnell, Florida
+1948,Subway,Hamilton, Ontario
+1949,McDonalds,Toledo, Ohio
+1950,Other,Singapore, 
+1951,Starbucks,Las Vegas, Nevada
+1952,Jack in the Box,, 
+1953,Chick-Fil-A,Gilbert, Arizona
+1954,Trader Joe's,Santa Clarita, California
+1955,Carl's Jr,West Valley City, Utah
+1956,McDonalds,Tumwater, Washington
+1957,Other,Silver Spring, Maryland
+1958,Chipotle Mexican Grill,Los Angeles, California
+1959,Other,Pittsburgh, Pennsylvania
+1960,Delta Airlines,Honolulu, Hawaii
+1961,Burger King,Ocala, Florida
+1962,Panda Express,Phoenix, Arizona
+1963,Trader Joe's,Burbank, California
+1964,Wawa,Langhorne, Pennsylvania
+1965,Other,Mauldin, South Carolina
+1966,Panera Bread,Knoxville, TN
+1967,Panda Express,Henderson, Nevada
+1968,Arby's,Garland, Texas
+1969,Other,Johnson City, Tennessee
+1970,Panda Express,Renton, Washington
+1971,Other,Little Rock, Arkansas
+1972,Other,Santa Fe, New Mexico
+1973,Popeyes,Fairfax, Virginia
+1974,Shari's,Meridian, Idaho
+1975,Subway,Ormond Beach, Florida
+1976,Costco,Red Deer, Alberta
+1977,Shake Shack,Detroit, Michigan
+1978,Charleys Philly Steaks,Columbus, Ohio
+1979,Wendy's,Greenwood Village, Colorado
+1980,Subway,Hamilton, Ontario
+1981,Long John Silver's,Stillwater, Oklahoma
+1982,A&amp;W,Monroe, Michigan
+1983,Other,Wichita, Kansas
+1984,Whole Foods Market,Jericho, New York
+1985,Burger King,Quincy, Massachusetts
+1986,Other,Rohnert Park, California
+1987,Other,, 
+1988,Subway,Stanhope Gardens, New South Wales
+1989,Sweetgreen,Philadelphia, Pennsylvania
+1990,Applebee's,Baldwin, New York
+1991,Cracker Barrel,Dickson, Tennessee
+1992,Taco Bell,Chandler, Arizona
+1993,Other,, New York
+1994,IHOP,Northglenn, Colorado
+1995,Chipotle Mexican Grill,Hillsboro, Oregon
+1996,Popeyes,Toronto, Ontario
+1997,Domino's Pizza,Louisville, Kentucky
+1998,Chipotle Mexican Grill,Woodbridge, Virginia
+1999,Raising Canes,Glendale, Arizona
+2000,The Cheesecake Factory,Austin, Texas
+2001,Dunkin donuts,Chicago, Illinois
+2002,Chipotle Mexican Grill,Wilmington, North Carolina
+2003,Chick-Fil-A,Irving, Texas
+2004,Costco,Frederick, Maryland
+2005,Zaxby's,Commerce, Georgia
+2006,Domino's Pizza,Kalamazoo, Michigan
+2007,Subway,Mondovi, Wisconsin
+2008,Domino's Pizza,Warrensburg, Missouri
+2009,Other,Ann Arbor, Michigan
+2010,Whataburger,Katy, Texas
+2011,Pret a Manger,Chicago, Illinois
+2012,Dunkin donuts,Smyrna, Georgia
+2013,KFC,, County Limerick
+2014,Subway,London, Ontario
+2015,Bob Evans,Chillicothe, Ohio
+2016,Other,Los Angeles, California
+2017,McDonalds,Bergenfield, New Jersey
+2018,Safeway,Keizer, Oregon
+2019,Costco,Gilbert, Arizona
+2020,Other,Detroit, Michigan
+2021,Arby's,Warner Robins, Georgia
+2022,Wendy's,St. Catharines, Ontario
+2023,Denny's,Orlando, Florida
+2024,KFC,, Scotland
+2025,Other,Cape Town, Western Cape
+2026,Wendy's,Chicago, Illinois
+2027,Qdoba,Creve Coeur, Missouri
+2028,Taco Bell,Kirksville, Missouri
+2029,Popeyes,Pelham, Alabama
+2030,KFC,Marion, Iowa
+2031,Chipotle Mexican Grill,Goleta, California
+2032,Greggs,, England
+2033,Dairy Queen,Wichita, Kansas
+2034,Chipotle Mexican Grill,Seattle, Washington
+2035,Subway,Miami, Florida
+2036,Olive Garden,Pensacola, Florida
+2037,Wendy's,Hadley, Massachusetts
+2038,Other,Fairlawn, Ohio
+2039,KFC,, Vermont
+2040,Subway,Baldwin, Michigan
+2041,Chipotle Mexican Grill,Lake Oswego, Oregon
+2042,Jack in the Box,Modesto, California
+2043,Jack in the Box,Modesto, California
+2044,The Cheesecake Factory,Happy Valley, Oregon
+2045,Buffalo wild wings,Fishers, Indiana
+2046,Starbucks,Denver, Colorado
+2047,Dunkin donuts,Huntersville, North Carolina
+2048,Little Caesars Pizza,Davison, Michigan
+2049,Sonic,Chandler, Oklahoma
+2050,Olive Garden,Vestal, New York
+2051,McDonalds,Fuquay Varina, North Carolina
+2052,McDonalds,Birmingham, Alabama
+2053,Subway,Neenah, Wisconsin
+2054,Other,, England
+2055,McDonalds,Auburndale, Florida
+2056,Five Guys,Cary, North Carolina
+2057,Subway,, England
+2058,McDonalds,Midland, Ontario
+2059,Wendy's,Chula Vista, California
+2060,Little Caesars Pizza,Hutto, Texas
+2061,Chipotle Mexican Grill,West Hartford, Connecticut
+2062,Panda Express,Frisco, Texas
+2063,Domino's Pizza,Stoke-on-Trent, England
+2064,Popeyes,Honolulu, Hawaii
+2065,Raising Canes,Centerville, Ohio
+2066,Yard House,Pasadena, California
+2067,Panda Express,Antioch, California
+2068,Tijuana Flats,Lutz, Florida
+2069,Whole Foods Market,Los Angeles, California
+2070,Other,Tucson, Arizona
+2071,Pizza Hut,Fairburn, GA
+2072,Walmart,South Jordan, Utah
+2073,Qdoba,Louisville, Kentucky
+2074,Chick-Fil-A,Brownsville, Texas
+2075,Costco,Durham, North Carolina
+2076,Other,Punta Cana, La Altagracia
+2077,McDonalds,Cumming, Georgia
+2078,McDonalds,Taylor, Michigan
+2079,Sonic,Winter Haven, Florida
+2080,Burger King,Tarpon Springs, Florida
+2081,McDonalds,Highlands Ranch, Colorado
+2082,McDonalds,Dearborn Heights, Michigan
+2083,Chipotle Mexican Grill,Scottsdale, Arizona
+2084,Other,Milwaukee, Wisconsin
+2085,Taco Bell,Covington, Washington
+2086,Chipotle Mexican Grill,Marysville, Ohio
+2087,Costco,Kansas City, Missouri
+2088,Subway,New Westminster, British Columbia
+2089,Whole Foods Market,Virginia Beach, Virginia
+2090,Chipotle Mexican Grill,Folsom, California
+2091,Burger King,Fresno, California
+2092,Applebee's,La Crosse, Virginia
+2093,Sweet Tomatoes,Bradenton, Florida
+2094,The Melting Pot,Portland, Oregon
+2095,Other,Plano, Texas
+2096,McDonalds,Junction City, Kansas
+2097,Buffalo wild wings,Warrensburg, Missouri
+2098,Taco Bell,Chicago, Illinois
+2099,Chipotle Mexican Grill,New York, New York
+2100,Other,Costa Mesa, California
+2101,Taco Bell,Mishawaka, Indiana
+2102,Taco Bell,Hicksville, New York
+2103,Chipotle Mexican Grill,Dallas, Texas
+2104,Other,Salt Lake City, Utah
+2105,Other,Las Vegas, Nevada
+2106,Arby's,Spring, Texas
+2107,Sonic,Ville Platte, Louisiana
+2108,Chipotle Mexican Grill,Dallas, Texas
+2109,Other,Fort Collins, Colorado
+2110,Chipotle Mexican Grill,Pasadena, California
+2111,Chick-Fil-A,Bryan, Texas
+2112,Papa John's,Kent, Ohio
+2113,Taco Bell,Las Cruces, New Mexico
+2114,McDonalds,Saugerties, New York
+2115,Chipotle Mexican Grill,El Paso, Texas
+2116,Disneyland,Anaheim, California
+2117,Jack in the Box,Corona, California
+2118,Chipotle Mexican Grill,Orlando, Florida
+2119,Taco Bell,Dora, Alabama
+2120,Wendy's,Greenville, Michigan
+2121,Other,Immokalee, Florida
+2122,Chipotle Mexican Grill,Arvada, Colorado
+2123,McDonalds,Tompkinsville, Kentucky
+2124,Little Caesars Pizza,West Jordan, Utah
+2125,Mellow mushroom,Mount Pleasant, South Carolina
+2126,Moe's Southwest grill,Evansville, Indiana
+2127,Wendy's,Rancho Mirage, California
+2128,McDonalds,Denver, Colorado
+2129,Chipotle Mexican Grill,Hopkins, Minnesota
+2130,Chipotle Mexican Grill,Pasadena, California
+2131,Burger King,New York, New York
+2132,Other,Windsor, Ontario
+2133,Target,Bristol, Virginia
+2134,Domino's Pizza,Maryville, Tennessee
+2135,Sonic,Grove City, Ohio
+2136,Popeyes,Richmond, Virginia
+2137,Little Caesars Pizza,Charlotte, North Carolina
+2138,Other,Haddonfield, New Jersey
+2139,Delta Airlines,Houston, Texas
+2140,Other,Fairport, New York
+2141,Taco Bell,Lynchburg, Virginia
+2142,Buffalo wild wings,Champaign, Illinois
+2143,Applebee's,Federal Way, Washington
+2144,Domino's Pizza,Wahiawa, Hawaii
+2145,Other,Papendrecht, Zuid-Holland
+2146,Whole Foods Market,Exton, Pennsylvania
+2147,Wendy's,Bushnell, Florida
+2148,Subway,Hamilton, Ontario
+2149,McDonalds,Toledo, Ohio
+2150,Other,Singapore, 
+2151,Starbucks,Las Vegas, Nevada
+2152,Jack in the Box,, 
+2153,Chick-Fil-A,Gilbert, Arizona
+2154,Trader Joe's,Santa Clarita, California
+2155,Carl's Jr,West Valley City, Utah
+2156,McDonalds,Tumwater, Washington
+2157,Other,Silver Spring, Maryland
+2158,Chipotle Mexican Grill,Los Angeles, California
+2159,Other,Pittsburgh, Pennsylvania
+2160,Delta Airlines,Honolulu, Hawaii
+2161,Burger King,Ocala, Florida
+2162,Panda Express,Phoenix, Arizona
+2163,Trader Joe's,Burbank, California
+2164,Wawa,Langhorne, Pennsylvania
+2165,Other,Mauldin, South Carolina
+2166,Panera Bread,Knoxville, TN
+2167,Panda Express,Henderson, Nevada
+2168,Arby's,Garland, Texas
+2169,Other,Johnson City, Tennessee
+2170,Panda Express,Renton, Washington
+2171,Other,Little Rock, Arkansas
+2172,Other,Santa Fe, New Mexico
+2173,Popeyes,Fairfax, Virginia
+2174,Shari's,Meridian, Idaho
+2175,Subway,Ormond Beach, Florida
+2176,Costco,Red Deer, Alberta
+2177,Shake Shack,Detroit, Michigan
+2178,Charleys Philly Steaks,Columbus, Ohio
+2179,Wendy's,Greenwood Village, Colorado
+2180,Subway,Hamilton, Ontario
+2181,Long John Silver's,Stillwater, Oklahoma
+2182,A&amp;W,Monroe, Michigan
+2183,Other,Wichita, Kansas
+2184,Whole Foods Market,Jericho, New York
+2185,Burger King,Quincy, Massachusetts
+2186,Other,Rohnert Park, California
+2187,Other,, 
+2188,Subway,Stanhope Gardens, New South Wales
+2189,Sweetgreen,Philadelphia, Pennsylvania
+2190,Applebee's,Baldwin, New York
+2191,Cracker Barrel,Dickson, Tennessee
+2192,Taco Bell,Chandler, Arizona
+2193,Other,, New York
+2194,IHOP,Northglenn, Colorado
+2195,Chipotle Mexican Grill,Hillsboro, Oregon
+2196,Popeyes,Toronto, Ontario
+2197,Domino's Pizza,Louisville, Kentucky
+2198,Chipotle Mexican Grill,Woodbridge, Virginia
+2199,Raising Canes,Glendale, Arizona
+2200,The Cheesecake Factory,Austin, Texas
+2201,Dunkin donuts,Chicago, Illinois
+2202,Chipotle Mexican Grill,Wilmington, North Carolina
+2203,Chick-Fil-A,Irving, Texas
+2204,Costco,Frederick, Maryland
+2205,Zaxby's,Commerce, Georgia
+2206,Domino's Pizza,Kalamazoo, Michigan
+2207,Subway,Mondovi, Wisconsin
+2208,Domino's Pizza,Warrensburg, Missouri
+2209,Other,Ann Arbor, Michigan
+2210,Whataburger,Katy, Texas
+2211,Pret a Manger,Chicago, Illinois
+2212,Dunkin donuts,Smyrna, Georgia
+2213,KFC,, County Limerick
+2214,Subway,London, Ontario
+2215,Bob Evans,Chillicothe, Ohio
+2216,Other,Los Angeles, California
+2217,McDonalds,Bergenfield, New Jersey
+2218,Safeway,Keizer, Oregon
+2219,Costco,Gilbert, Arizona
+2220,Other,Detroit, Michigan
+2221,Arby's,Warner Robins, Georgia
+2222,Wendy's,St. Catharines, Ontario
+2223,Denny's,Orlando, Florida
+2224,KFC,, Scotland
+2225,Other,Cape Town, Western Cape
+2226,Wendy's,Chicago, Illinois
+2227,Qdoba,Creve Coeur, Missouri
+2228,Taco Bell,Kirksville, Missouri
+2229,Popeyes,Pelham, Alabama
+2230,KFC,Marion, Iowa
+2231,Chipotle Mexican Grill,Goleta, California
+2232,Greggs,, England
+2233,Dairy Queen,Wichita, Kansas
+2234,Chipotle Mexican Grill,Seattle, Washington
+2235,Subway,Miami, Florida
+2236,Olive Garden,Pensacola, Florida
+2237,Wendy's,Hadley, Massachusetts
+2238,Other,Fairlawn, Ohio
+2239,KFC,, Vermont
+2240,Subway,Baldwin, Michigan
+2241,Chipotle Mexican Grill,Lake Oswego, Oregon
+2242,Jack in the Box,Modesto, California
+2243,Jack in the Box,Modesto, California
+2244,The Cheesecake Factory,Happy Valley, Oregon
+2245,Buffalo wild wings,Fishers, Indiana
+2246,Starbucks,Denver, Colorado
+2247,Dunkin donuts,Huntersville, North Carolina
+2248,Little Caesars Pizza,Davison, Michigan
+2249,Sonic,Chandler, Oklahoma
+2250,Olive Garden,Vestal, New York
+2251,McDonalds,Fuquay Varina, North Carolina
+2252,McDonalds,Birmingham, Alabama
+2253,Subway,Neenah, Wisconsin
+2254,Other,, England
+2255,McDonalds,Auburndale, Florida
+2256,Five Guys,Cary, North Carolina
+2257,Subway,, England
+2258,McDonalds,Midland, Ontario
+2259,Wendy's,Chula Vista, California
+2260,Little Caesars Pizza,Hutto, Texas
+2261,Chipotle Mexican Grill,West Hartford, Connecticut
+2262,Panda Express,Frisco, Texas
+2263,Domino's Pizza,Stoke-on-Trent, England
+2264,Popeyes,Honolulu, Hawaii
+2265,Raising Canes,Centerville, Ohio
+2266,Yard House,Pasadena, California
+2267,Panda Express,Antioch, California
+2268,Tijuana Flats,Lutz, Florida
+2269,Whole Foods Market,Los Angeles, California
+2270,Other,Tucson, Arizona
+2271,Pizza Hut,Fairburn, GA
+2272,Walmart,South Jordan, Utah
+2273,Qdoba,Louisville, Kentucky
+2274,Chick-Fil-A,Brownsville, Texas
+2275,Costco,Durham, North Carolina
+2276,Other,Punta Cana, La Altagracia
+2277,McDonalds,Cumming, Georgia
+2278,McDonalds,Taylor, Michigan
+2279,Sonic,Winter Haven, Florida
+2280,Burger King,Tarpon Springs, Florida
+2281,McDonalds,Highlands Ranch, Colorado
+2282,McDonalds,Dearborn Heights, Michigan
+2283,Chipotle Mexican Grill,Scottsdale, Arizona
+2284,Other,Milwaukee, Wisconsin
+2285,Taco Bell,Covington, Washington
+2286,Chipotle Mexican Grill,Marysville, Ohio
+2287,Costco,Kansas City, Missouri
+2288,Subway,New Westminster, British Columbia
+2289,Whole Foods Market,Virginia Beach, Virginia
+2290,Chipotle Mexican Grill,Folsom, California
+2291,Burger King,Fresno, California
+2292,Applebee's,La Crosse, Virginia
+2293,Sweet Tomatoes,Bradenton, Florida
+2294,The Melting Pot,Portland, Oregon
+2295,Other,Plano, Texas
+2296,McDonalds,Junction City, Kansas
+2297,Buffalo wild wings,Warrensburg, Missouri
+2298,Taco Bell,Chicago, Illinois
+2299,Chipotle Mexican Grill,New York, New York
+2300,Other,Costa Mesa, California
+2301,Taco Bell,Mishawaka, Indiana
+2302,Taco Bell,Hicksville, New York
+2303,Chipotle Mexican Grill,Dallas, Texas
+2304,Other,Salt Lake City, Utah
+2305,Other,Las Vegas, Nevada
+2306,Arby's,Spring, Texas
+2307,Sonic,Ville Platte, Louisiana
+2308,Chipotle Mexican Grill,Dallas, Texas
+2309,Other,Fort Collins, Colorado
+2310,Chipotle Mexican Grill,Pasadena, California
+2311,Chick-Fil-A,Bryan, Texas
+2312,Papa John's,Kent, Ohio
+2313,Taco Bell,Las Cruces, New Mexico
+2314,McDonalds,Saugerties, New York
+2315,Chipotle Mexican Grill,El Paso, Texas
+2316,Disneyland,Anaheim, California
+2317,Jack in the Box,Corona, California
+2318,Chipotle Mexican Grill,Orlando, Florida
+2319,Taco Bell,Dora, Alabama
+2320,Wendy's,Greenville, Michigan
+2321,Other,Immokalee, Florida
+2322,Chipotle Mexican Grill,Arvada, Colorado
+2323,McDonalds,Tompkinsville, Kentucky
+2324,Little Caesars Pizza,West Jordan, Utah
+2325,Mellow mushroom,Mount Pleasant, South Carolina
+2326,Moe's Southwest grill,Evansville, Indiana
+2327,Wendy's,Rancho Mirage, California
+2328,McDonalds,Denver, Colorado
+2329,Chipotle Mexican Grill,Hopkins, Minnesota
+2330,Chipotle Mexican Grill,Pasadena, California
+2331,Burger King,New York, New York
+2332,Other,Windsor, Ontario
+2333,Target,Bristol, Virginia
+2334,Domino's Pizza,Maryville, Tennessee
+2335,Sonic,Grove City, Ohio
+2336,Popeyes,Richmond, Virginia
+2337,Little Caesars Pizza,Charlotte, North Carolina
+2338,Other,Haddonfield, New Jersey
+2339,Delta Airlines,Houston, Texas
+2340,Other,Fairport, New York
+2341,Taco Bell,Lynchburg, Virginia
+2342,Buffalo wild wings,Champaign, Illinois
+2343,Applebee's,Federal Way, Washington
+2344,Domino's Pizza,Wahiawa, Hawaii
+2345,Other,Papendrecht, Zuid-Holland
+2346,Whole Foods Market,Exton, Pennsylvania
+2347,Wendy's,Bushnell, Florida
+2348,Subway,Hamilton, Ontario
+2349,McDonalds,Toledo, Ohio
+2350,Other,Singapore, 
+2351,Starbucks,Las Vegas, Nevada
+2352,Jack in the Box,, 
+2353,Chick-Fil-A,Gilbert, Arizona
+2354,Trader Joe's,Santa Clarita, California
+2355,Carl's Jr,West Valley City, Utah
+2356,McDonalds,Tumwater, Washington
+2357,Other,Silver Spring, Maryland
+2358,Chipotle Mexican Grill,Los Angeles, California
+2359,Other,Pittsburgh, Pennsylvania
+2360,Delta Airlines,Honolulu, Hawaii
+2361,Burger King,Ocala, Florida
+2362,Panda Express,Phoenix, Arizona
+2363,Trader Joe's,Burbank, California
+2364,Wawa,Langhorne, Pennsylvania
+2365,Other,Mauldin, South Carolina
+2366,Panera Bread,Knoxville, TN
+2367,Panda Express,Henderson, Nevada
+2368,Arby's,Garland, Texas
+2369,Other,Johnson City, Tennessee
+2370,Panda Express,Renton, Washington
+2371,Other,Little Rock, Arkansas
+2372,Other,Santa Fe, New Mexico
+2373,Popeyes,Fairfax, Virginia
+2374,Shari's,Meridian, Idaho
+2375,Subway,Ormond Beach, Florida
+2376,Costco,Red Deer, Alberta
+2377,Shake Shack,Detroit, Michigan
+2378,Charleys Philly Steaks,Columbus, Ohio
+2379,Wendy's,Greenwood Village, Colorado
+2380,Subway,Hamilton, Ontario
+2381,Long John Silver's,Stillwater, Oklahoma
+2382,A&amp;W,Monroe, Michigan
+2383,Other,Wichita, Kansas
+2384,Whole Foods Market,Jericho, New York
+2385,Burger King,Quincy, Massachusetts
+2386,Other,Rohnert Park, California
+2387,Other,, 
+2388,Subway,Stanhope Gardens, New South Wales
+2389,Sweetgreen,Philadelphia, Pennsylvania
+2390,Applebee's,Baldwin, New York
+2391,Cracker Barrel,Dickson, Tennessee
+2392,Taco Bell,Chandler, Arizona
+2393,Other,, New York
+2394,IHOP,Northglenn, Colorado
+2395,Chipotle Mexican Grill,Hillsboro, Oregon
+2396,Popeyes,Toronto, Ontario
+2397,Domino's Pizza,Louisville, Kentucky
+2398,Chipotle Mexican Grill,Woodbridge, Virginia
+2399,Raising Canes,Glendale, Arizona
+2400,The Cheesecake Factory,Austin, Texas
+2401,Dunkin donuts,Chicago, Illinois
+2402,Chipotle Mexican Grill,Wilmington, North Carolina
+2403,Chick-Fil-A,Irving, Texas
+2404,Costco,Frederick, Maryland
+2405,Zaxby's,Commerce, Georgia
+2406,Domino's Pizza,Kalamazoo, Michigan
+2407,Subway,Mondovi, Wisconsin
+2408,Domino's Pizza,Warrensburg, Missouri
+2409,Other,Ann Arbor, Michigan
+2410,Whataburger,Katy, Texas
+2411,Pret a Manger,Chicago, Illinois
+2412,Dunkin donuts,Smyrna, Georgia
+2413,KFC,, County Limerick
+2414,Subway,London, Ontario
+2415,Bob Evans,Chillicothe, Ohio
+2416,Other,Los Angeles, California
+2417,McDonalds,Bergenfield, New Jersey
+2418,Safeway,Keizer, Oregon
+2419,Costco,Gilbert, Arizona
+2420,Other,Detroit, Michigan
+2421,Arby's,Warner Robins, Georgia
+2422,Wendy's,St. Catharines, Ontario
+2423,Denny's,Orlando, Florida
+2424,KFC,, Scotland
+2425,Other,Cape Town, Western Cape
+2426,Wendy's,Chicago, Illinois
+2427,Qdoba,Creve Coeur, Missouri
+2428,Taco Bell,Kirksville, Missouri
+2429,Popeyes,Pelham, Alabama
+2430,KFC,Marion, Iowa
+2431,Chipotle Mexican Grill,Goleta, California
+2432,Greggs,, England
+2433,Dairy Queen,Wichita, Kansas
+2434,Chipotle Mexican Grill,Seattle, Washington
+2435,Subway,Miami, Florida
+2436,Olive Garden,Pensacola, Florida
+2437,Wendy's,Hadley, Massachusetts
+2438,Other,Fairlawn, Ohio
+2439,KFC,, Vermont
+2440,Subway,Baldwin, Michigan
+2441,Chipotle Mexican Grill,Lake Oswego, Oregon
+2442,Jack in the Box,Modesto, California
+2443,Jack in the Box,Modesto, California
+2444,The Cheesecake Factory,Happy Valley, Oregon
+2445,Buffalo wild wings,Fishers, Indiana
+2446,Starbucks,Denver, Colorado
+2447,Dunkin donuts,Huntersville, North Carolina
+2448,Little Caesars Pizza,Davison, Michigan
+2449,Sonic,Chandler, Oklahoma
+2450,Olive Garden,Vestal, New York
+2451,McDonalds,Fuquay Varina, North Carolina
+2452,McDonalds,Birmingham, Alabama
+2453,Subway,Neenah, Wisconsin
+2454,Other,, England
+2455,McDonalds,Auburndale, Florida
+2456,Five Guys,Cary, North Carolina
+2457,Subway,, England
+2458,McDonalds,Midland, Ontario
+2459,Wendy's,Chula Vista, California
+2460,Little Caesars Pizza,Hutto, Texas
+2461,Chipotle Mexican Grill,West Hartford, Connecticut
+2462,Panda Express,Frisco, Texas
+2463,Domino's Pizza,Stoke-on-Trent, England
+2464,Popeyes,Honolulu, Hawaii
+2465,Raising Canes,Centerville, Ohio
+2466,Yard House,Pasadena, California
+2467,Panda Express,Antioch, California
+2468,Tijuana Flats,Lutz, Florida
+2469,Whole Foods Market,Los Angeles, California
+2470,Other,Tucson, Arizona
+2471,Pizza Hut,Fairburn, GA
+2472,Walmart,South Jordan, Utah
+2473,Qdoba,Louisville, Kentucky
+2474,Chick-Fil-A,Brownsville, Texas
+2475,Costco,Durham, North Carolina
+2476,Other,Punta Cana, La Altagracia
+2477,McDonalds,Cumming, Georgia
+2478,McDonalds,Taylor, Michigan
+2479,Sonic,Winter Haven, Florida
+2480,Burger King,Tarpon Springs, Florida
+2481,McDonalds,Highlands Ranch, Colorado
+2482,McDonalds,Dearborn Heights, Michigan
+2483,Chipotle Mexican Grill,Scottsdale, Arizona
+2484,Other,Milwaukee, Wisconsin
+2485,Taco Bell,Covington, Washington
+2486,Chipotle Mexican Grill,Marysville, Ohio
+2487,Costco,Kansas City, Missouri
+2488,Subway,New Westminster, British Columbia
+2489,Whole Foods Market,Virginia Beach, Virginia
+2490,Chipotle Mexican Grill,Folsom, California
+2491,Burger King,Fresno, California
+2492,Applebee's,La Crosse, Virginia
+2493,Sweet Tomatoes,Bradenton, Florida
+2494,The Melting Pot,Portland, Oregon
+2495,Other,Plano, Texas
+2496,McDonalds,Junction City, Kansas
+2497,Buffalo wild wings,Warrensburg, Missouri
+2498,Taco Bell,Chicago, Illinois
+2499,Chipotle Mexican Grill,New York, New York
+2500,Other,Costa Mesa, California
+2501,Taco Bell,Mishawaka, Indiana
+2502,Taco Bell,Hicksville, New York
+2503,Chipotle Mexican Grill,Dallas, Texas
+2504,Other,Salt Lake City, Utah
+2505,Other,Las Vegas, Nevada
+2506,Arby's,Spring, Texas
+2507,Sonic,Ville Platte, Louisiana
+2508,Chipotle Mexican Grill,Dallas, Texas
+2509,Other,Fort Collins, Colorado
+2510,Chipotle Mexican Grill,Pasadena, California
+2511,Chick-Fil-A,Bryan, Texas
+2512,Papa John's,Kent, Ohio
+2513,Taco Bell,Las Cruces, New Mexico
+2514,McDonalds,Saugerties, New York
+2515,Chipotle Mexican Grill,El Paso, Texas
+2516,Disneyland,Anaheim, California
+2517,Jack in the Box,Corona, California
+2518,Chipotle Mexican Grill,Orlando, Florida
+2519,Taco Bell,Dora, Alabama
+2520,Wendy's,Greenville, Michigan
+2521,Other,Immokalee, Florida
+2522,Chipotle Mexican Grill,Arvada, Colorado
+2523,McDonalds,Tompkinsville, Kentucky
+2524,Little Caesars Pizza,West Jordan, Utah
+2525,Mellow mushroom,Mount Pleasant, South Carolina
+2526,Moe's Southwest grill,Evansville, Indiana
+2527,Wendy's,Rancho Mirage, California
+2528,McDonalds,Denver, Colorado
+2529,Chipotle Mexican Grill,Hopkins, Minnesota
+2530,Chipotle Mexican Grill,Pasadena, California
+2531,Burger King,New York, New York
+2532,Other,Windsor, Ontario
+2533,Target,Bristol, Virginia
+2534,Domino's Pizza,Maryville, Tennessee
+2535,Sonic,Grove City, Ohio
+2536,Popeyes,Richmond, Virginia
+2537,Little Caesars Pizza,Charlotte, North Carolina
+2538,Other,Haddonfield, New Jersey
+2539,Delta Airlines,Houston, Texas
+2540,Other,Fairport, New York
+2541,Taco Bell,Lynchburg, Virginia
+2542,Buffalo wild wings,Champaign, Illinois
+2543,Applebee's,Federal Way, Washington
+2544,Domino's Pizza,Wahiawa, Hawaii
+2545,Other,Papendrecht, Zuid-Holland
+2546,Whole Foods Market,Exton, Pennsylvania
+2547,Wendy's,Bushnell, Florida
+2548,Subway,Hamilton, Ontario
+2549,McDonalds,Toledo, Ohio
+2550,Other,Singapore, 
+2551,Starbucks,Las Vegas, Nevada
+2552,Jack in the Box,, 
+2553,Chick-Fil-A,Gilbert, Arizona
+2554,Trader Joe's,Santa Clarita, California
+2555,Carl's Jr,West Valley City, Utah
+2556,McDonalds,Tumwater, Washington
+2557,Other,Silver Spring, Maryland
+2558,Chipotle Mexican Grill,Los Angeles, California
+2559,Other,Pittsburgh, Pennsylvania
+2560,Delta Airlines,Honolulu, Hawaii
+2561,Burger King,Ocala, Florida
+2562,Panda Express,Phoenix, Arizona
+2563,Trader Joe's,Burbank, California
+2564,Wawa,Langhorne, Pennsylvania
+2565,Other,Mauldin, South Carolina
+2566,Panera Bread,Knoxville, TN
+2567,Panda Express,Henderson, Nevada
+2568,Arby's,Garland, Texas
+2569,Other,Johnson City, Tennessee
+2570,Panda Express,Renton, Washington
+2571,Other,Little Rock, Arkansas
+2572,Other,Santa Fe, New Mexico
+2573,Popeyes,Fairfax, Virginia
+2574,Shari's,Meridian, Idaho
+2575,Subway,Ormond Beach, Florida
+2576,Costco,Red Deer, Alberta
+2577,Shake Shack,Detroit, Michigan
+2578,Charleys Philly Steaks,Columbus, Ohio
+2579,Wendy's,Greenwood Village, Colorado
+2580,Subway,Hamilton, Ontario
+2581,Long John Silver's,Stillwater, Oklahoma
+2582,A&amp;W,Monroe, Michigan
+2583,Other,Wichita, Kansas
+2584,Whole Foods Market,Jericho, New York
+2585,Burger King,Quincy, Massachusetts
+2586,Other,Rohnert Park, California
+2587,Other,, 
+2588,Subway,Stanhope Gardens, New South Wales
+2589,Sweetgreen,Philadelphia, Pennsylvania
+2590,Applebee's,Baldwin, New York
+2591,Cracker Barrel,Dickson, Tennessee
+2592,Taco Bell,Chandler, Arizona
+2593,Other,, New York
+2594,IHOP,Northglenn, Colorado
+2595,Chipotle Mexican Grill,Hillsboro, Oregon
+2596,Popeyes,Toronto, Ontario
+2597,Domino's Pizza,Louisville, Kentucky
+2598,Chipotle Mexican Grill,Woodbridge, Virginia
+2599,Raising Canes,Glendale, Arizona
+2600,The Cheesecake Factory,Austin, Texas
+2601,Dunkin donuts,Chicago, Illinois
+2602,Chipotle Mexican Grill,Wilmington, North Carolina
+2603,Chick-Fil-A,Irving, Texas
+2604,Costco,Frederick, Maryland
+2605,Zaxby's,Commerce, Georgia
+2606,Domino's Pizza,Kalamazoo, Michigan
+2607,Subway,Mondovi, Wisconsin
+2608,Domino's Pizza,Warrensburg, Missouri
+2609,Other,Ann Arbor, Michigan
+2610,Whataburger,Katy, Texas
+2611,Pret a Manger,Chicago, Illinois
+2612,Dunkin donuts,Smyrna, Georgia
+2613,KFC,, County Limerick
+2614,Subway,London, Ontario
+2615,Bob Evans,Chillicothe, Ohio
+2616,Other,Los Angeles, California
+2617,McDonalds,Bergenfield, New Jersey
+2618,Safeway,Keizer, Oregon
+2619,Costco,Gilbert, Arizona
+2620,Other,Detroit, Michigan
+2621,Arby's,Warner Robins, Georgia
+2622,Wendy's,St. Catharines, Ontario
+2623,Denny's,Orlando, Florida
+2624,KFC,, Scotland
+2625,Other,Cape Town, Western Cape
+2626,Wendy's,Chicago, Illinois
+2627,Qdoba,Creve Coeur, Missouri
+2628,Taco Bell,Kirksville, Missouri
+2629,Popeyes,Pelham, Alabama
+2630,KFC,Marion, Iowa
+2631,Chipotle Mexican Grill,Goleta, California
+2632,Greggs,, England
+2633,Dairy Queen,Wichita, Kansas
+2634,Chipotle Mexican Grill,Seattle, Washington
+2635,Subway,Miami, Florida
+2636,Olive Garden,Pensacola, Florida
+2637,Wendy's,Hadley, Massachusetts
+2638,Other,Fairlawn, Ohio
+2639,KFC,, Vermont
+2640,Subway,Baldwin, Michigan
+2641,Chipotle Mexican Grill,Lake Oswego, Oregon
+2642,Jack in the Box,Modesto, California
+2643,Jack in the Box,Modesto, California
+2644,The Cheesecake Factory,Happy Valley, Oregon
+2645,Buffalo wild wings,Fishers, Indiana
+2646,Starbucks,Denver, Colorado
+2647,Dunkin donuts,Huntersville, North Carolina
+2648,Little Caesars Pizza,Davison, Michigan
+2649,Sonic,Chandler, Oklahoma
+2650,Olive Garden,Vestal, New York
+2651,McDonalds,Fuquay Varina, North Carolina
+2652,McDonalds,Birmingham, Alabama
+2653,Subway,Neenah, Wisconsin
+2654,Other,, England
+2655,McDonalds,Auburndale, Florida
+2656,Five Guys,Cary, North Carolina
+2657,Subway,, England
+2658,McDonalds,Midland, Ontario
+2659,Wendy's,Chula Vista, California
+2660,Little Caesars Pizza,Hutto, Texas
+2661,Chipotle Mexican Grill,West Hartford, Connecticut
+2662,Panda Express,Frisco, Texas
+2663,Domino's Pizza,Stoke-on-Trent, England
+2664,Popeyes,Honolulu, Hawaii
+2665,Raising Canes,Centerville, Ohio
+2666,Yard House,Pasadena, California
+2667,Panda Express,Antioch, California
+2668,Tijuana Flats,Lutz, Florida
+2669,Whole Foods Market,Los Angeles, California
+2670,Other,Tucson, Arizona
+2671,Pizza Hut,Fairburn, GA
+2672,Walmart,South Jordan, Utah
+2673,Qdoba,Louisville, Kentucky
+2674,Chick-Fil-A,Brownsville, Texas
+2675,Costco,Durham, North Carolina
+2676,Other,Punta Cana, La Altagracia
+2677,McDonalds,Cumming, Georgia
+2678,McDonalds,Taylor, Michigan
+2679,Sonic,Winter Haven, Florida
+2680,Burger King,Tarpon Springs, Florida
+2681,McDonalds,Highlands Ranch, Colorado
+2682,McDonalds,Dearborn Heights, Michigan
+2683,Chipotle Mexican Grill,Scottsdale, Arizona
+2684,Other,Milwaukee, Wisconsin
+2685,Taco Bell,Covington, Washington
+2686,Chipotle Mexican Grill,Marysville, Ohio
+2687,Costco,Kansas City, Missouri
+2688,Subway,New Westminster, British Columbia
+2689,Whole Foods Market,Virginia Beach, Virginia
+2690,Chipotle Mexican Grill,Folsom, California
+2691,Burger King,Fresno, California
+2692,Applebee's,La Crosse, Virginia
+2693,Sweet Tomatoes,Bradenton, Florida
+2694,The Melting Pot,Portland, Oregon
+2695,Other,Plano, Texas
+2696,McDonalds,Junction City, Kansas
+2697,Buffalo wild wings,Warrensburg, Missouri
+2698,Taco Bell,Chicago, Illinois
+2699,Chipotle Mexican Grill,New York, New York
+2700,Other,Costa Mesa, California
+2701,Taco Bell,Mishawaka, Indiana
+2702,Taco Bell,Hicksville, New York
+2703,Chipotle Mexican Grill,Dallas, Texas
+2704,Other,Salt Lake City, Utah
+2705,Other,Las Vegas, Nevada
+2706,Arby's,Spring, Texas
+2707,Sonic,Ville Platte, Louisiana
+2708,Chipotle Mexican Grill,Dallas, Texas
+2709,Other,Fort Collins, Colorado
+2710,Chipotle Mexican Grill,Pasadena, California
+2711,Chick-Fil-A,Bryan, Texas
+2712,Papa John's,Kent, Ohio
+2713,Taco Bell,Las Cruces, New Mexico
+2714,McDonalds,Saugerties, New York
+2715,Chipotle Mexican Grill,El Paso, Texas
+2716,Disneyland,Anaheim, California
+2717,Jack in the Box,Corona, California
+2718,Chipotle Mexican Grill,Orlando, Florida
+2719,Taco Bell,Dora, Alabama
+2720,Wendy's,Greenville, Michigan
+2721,Other,Immokalee, Florida
+2722,Chipotle Mexican Grill,Arvada, Colorado
+2723,McDonalds,Tompkinsville, Kentucky
+2724,Little Caesars Pizza,West Jordan, Utah
+2725,Mellow mushroom,Mount Pleasant, South Carolina
+2726,Moe's Southwest grill,Evansville, Indiana
+2727,Wendy's,Rancho Mirage, California
+2728,McDonalds,Denver, Colorado
+2729,Chipotle Mexican Grill,Hopkins, Minnesota
+2730,Chipotle Mexican Grill,Pasadena, California
+2731,Burger King,New York, New York
+2732,Other,Windsor, Ontario
+2733,Target,Bristol, Virginia
+2734,Domino's Pizza,Maryville, Tennessee
+2735,Sonic,Grove City, Ohio
+2736,Popeyes,Richmond, Virginia
+2737,Little Caesars Pizza,Charlotte, North Carolina
+2738,Other,Haddonfield, New Jersey
+2739,Delta Airlines,Houston, Texas
+2740,Other,Fairport, New York
+2741,Taco Bell,Lynchburg, Virginia
+2742,Buffalo wild wings,Champaign, Illinois
+2743,Applebee's,Federal Way, Washington
+2744,Domino's Pizza,Wahiawa, Hawaii
+2745,Other,Papendrecht, Zuid-Holland
+2746,Whole Foods Market,Exton, Pennsylvania
+2747,Wendy's,Bushnell, Florida
+2748,Subway,Hamilton, Ontario
+2749,McDonalds,Toledo, Ohio
+2750,Other,Singapore, 
+2751,Starbucks,Las Vegas, Nevada
+2752,Jack in the Box,, 
+2753,Chick-Fil-A,Gilbert, Arizona
+2754,Trader Joe's,Santa Clarita, California
+2755,Carl's Jr,West Valley City, Utah
+2756,McDonalds,Tumwater, Washington
+2757,Other,Silver Spring, Maryland
+2758,Chipotle Mexican Grill,Los Angeles, California
+2759,Other,Pittsburgh, Pennsylvania
+2760,Delta Airlines,Honolulu, Hawaii
+2761,Burger King,Ocala, Florida
+2762,Panda Express,Phoenix, Arizona
+2763,Trader Joe's,Burbank, California
+2764,Wawa,Langhorne, Pennsylvania
+2765,Other,Mauldin, South Carolina
+2766,Panera Bread,Knoxville, TN
+2767,Panda Express,Henderson, Nevada
+2768,Arby's,Garland, Texas
+2769,Other,Johnson City, Tennessee
+2770,Panda Express,Renton, Washington
+2771,Other,Little Rock, Arkansas
+2772,Other,Santa Fe, New Mexico
+2773,Popeyes,Fairfax, Virginia
+2774,Shari's,Meridian, Idaho
+2775,Subway,Ormond Beach, Florida
+2776,Costco,Red Deer, Alberta
+2777,Shake Shack,Detroit, Michigan
+2778,Charleys Philly Steaks,Columbus, Ohio
+2779,Wendy's,Greenwood Village, Colorado
+2780,Subway,Hamilton, Ontario
+2781,Long John Silver's,Stillwater, Oklahoma
+2782,A&amp;W,Monroe, Michigan
+2783,Other,Wichita, Kansas
+2784,Whole Foods Market,Jericho, New York
+2785,Burger King,Quincy, Massachusetts
+2786,Other,Rohnert Park, California
+2787,Other,, 
+2788,Subway,Stanhope Gardens, New South Wales
+2789,Sweetgreen,Philadelphia, Pennsylvania
+2790,Applebee's,Baldwin, New York
+2791,Cracker Barrel,Dickson, Tennessee
+2792,Taco Bell,Chandler, Arizona
+2793,Other,, New York
+2794,IHOP,Northglenn, Colorado
+2795,Chipotle Mexican Grill,Hillsboro, Oregon
+2796,Popeyes,Toronto, Ontario
+2797,Domino's Pizza,Louisville, Kentucky
+2798,Chipotle Mexican Grill,Woodbridge, Virginia
+2799,Raising Canes,Glendale, Arizona
+2800,The Cheesecake Factory,Austin, Texas
+2801,Dunkin donuts,Chicago, Illinois
+2802,Chipotle Mexican Grill,Wilmington, North Carolina
+2803,Chick-Fil-A,Irving, Texas
+2804,Costco,Frederick, Maryland
+2805,Zaxby's,Commerce, Georgia
+2806,Domino's Pizza,Kalamazoo, Michigan
+2807,Subway,Mondovi, Wisconsin
+2808,Domino's Pizza,Warrensburg, Missouri
+2809,Other,Ann Arbor, Michigan
+2810,Whataburger,Katy, Texas
+2811,Pret a Manger,Chicago, Illinois
+2812,Dunkin donuts,Smyrna, Georgia
+2813,KFC,, County Limerick
+2814,Subway,London, Ontario
+2815,Bob Evans,Chillicothe, Ohio
+2816,Other,Los Angeles, California
+2817,McDonalds,Bergenfield, New Jersey
+2818,Safeway,Keizer, Oregon
+2819,Costco,Gilbert, Arizona
+2820,Other,Detroit, Michigan
+2821,Arby's,Warner Robins, Georgia
+2822,Wendy's,St. Catharines, Ontario
+2823,Denny's,Orlando, Florida
+2824,KFC,, Scotland
+2825,Other,Cape Town, Western Cape
+2826,Wendy's,Chicago, Illinois
+2827,Qdoba,Creve Coeur, Missouri
+2828,Taco Bell,Kirksville, Missouri
+2829,Popeyes,Pelham, Alabama
+2830,KFC,Marion, Iowa
+2831,Chipotle Mexican Grill,Goleta, California
+2832,Greggs,, England
+2833,Dairy Queen,Wichita, Kansas
+2834,Chipotle Mexican Grill,Seattle, Washington
+2835,Subway,Miami, Florida
+2836,Olive Garden,Pensacola, Florida
+2837,Wendy's,Hadley, Massachusetts
+2838,Other,Fairlawn, Ohio
+2839,KFC,, Vermont
+2840,Subway,Baldwin, Michigan
+2841,Chipotle Mexican Grill,Lake Oswego, Oregon
+2842,Jack in the Box,Modesto, California
+2843,Jack in the Box,Modesto, California
+2844,The Cheesecake Factory,Happy Valley, Oregon
+2845,Buffalo wild wings,Fishers, Indiana
+2846,Starbucks,Denver, Colorado
+2847,Dunkin donuts,Huntersville, North Carolina
+2848,Little Caesars Pizza,Davison, Michigan
+2849,Sonic,Chandler, Oklahoma
+2850,Olive Garden,Vestal, New York
+2851,McDonalds,Fuquay Varina, North Carolina
+2852,McDonalds,Birmingham, Alabama
+2853,Subway,Neenah, Wisconsin
+2854,Other,, England
+2855,McDonalds,Auburndale, Florida
+2856,Five Guys,Cary, North Carolina
+2857,Subway,, England
+2858,McDonalds,Midland, Ontario
+2859,Wendy's,Chula Vista, California
+2860,Little Caesars Pizza,Hutto, Texas
+2861,Chipotle Mexican Grill,West Hartford, Connecticut
+2862,Panda Express,Frisco, Texas
+2863,Domino's Pizza,Stoke-on-Trent, England
+2864,Popeyes,Honolulu, Hawaii
+2865,Raising Canes,Centerville, Ohio
+2866,Yard House,Pasadena, California
+2867,Panda Express,Antioch, California
+2868,Tijuana Flats,Lutz, Florida
+2869,Whole Foods Market,Los Angeles, California
+2870,Other,Tucson, Arizona
+2871,Pizza Hut,Fairburn, GA
+2872,Walmart,South Jordan, Utah
+2873,Qdoba,Louisville, Kentucky
+2874,Chick-Fil-A,Brownsville, Texas
+2875,Costco,Durham, North Carolina
+2876,Other,Punta Cana, La Altagracia
+2877,McDonalds,Cumming, Georgia
+2878,McDonalds,Taylor, Michigan
+2879,Sonic,Winter Haven, Florida
+2880,Burger King,Tarpon Springs, Florida
+2881,McDonalds,Highlands Ranch, Colorado
+2882,McDonalds,Dearborn Heights, Michigan
+2883,Chipotle Mexican Grill,Scottsdale, Arizona
+2884,Other,Milwaukee, Wisconsin
+2885,Taco Bell,Covington, Washington
+2886,Chipotle Mexican Grill,Marysville, Ohio
+2887,Costco,Kansas City, Missouri
+2888,Subway,New Westminster, British Columbia
+2889,Whole Foods Market,Virginia Beach, Virginia
+2890,Chipotle Mexican Grill,Folsom, California
+2891,Burger King,Fresno, California
+2892,Applebee's,La Crosse, Virginia
+2893,Sweet Tomatoes,Bradenton, Florida
+2894,The Melting Pot,Portland, Oregon
+2895,Other,Plano, Texas
+2896,McDonalds,Junction City, Kansas
+2897,Buffalo wild wings,Warrensburg, Missouri
+2898,Taco Bell,Chicago, Illinois
+2899,Chipotle Mexican Grill,New York, New York
+2900,Other,Costa Mesa, California
+2901,Taco Bell,Mishawaka, Indiana
+2902,Taco Bell,Hicksville, New York
+2903,Chipotle Mexican Grill,Dallas, Texas
+2904,Other,Salt Lake City, Utah
+2905,Other,Las Vegas, Nevada
+2906,Arby's,Spring, Texas
+2907,Sonic,Ville Platte, Louisiana
+2908,Chipotle Mexican Grill,Dallas, Texas
+2909,Other,Fort Collins, Colorado
+2910,Chipotle Mexican Grill,Pasadena, California
+2911,Chick-Fil-A,Bryan, Texas
+2912,Papa John's,Kent, Ohio
+2913,Taco Bell,Las Cruces, New Mexico
+2914,McDonalds,Saugerties, New York
+2915,Chipotle Mexican Grill,El Paso, Texas
+2916,Disneyland,Anaheim, California
+2917,Jack in the Box,Corona, California
+2918,Chipotle Mexican Grill,Orlando, Florida
+2919,Taco Bell,Dora, Alabama
+2920,Wendy's,Greenville, Michigan
+2921,Other,Immokalee, Florida
+2922,Chipotle Mexican Grill,Arvada, Colorado
+2923,McDonalds,Tompkinsville, Kentucky
+2924,Little Caesars Pizza,West Jordan, Utah
+2925,Mellow mushroom,Mount Pleasant, South Carolina
+2926,Moe's Southwest grill,Evansville, Indiana
+2927,Wendy's,Rancho Mirage, California
+2928,McDonalds,Denver, Colorado
+2929,Chipotle Mexican Grill,Hopkins, Minnesota
+2930,Chipotle Mexican Grill,Pasadena, California
+2931,Burger King,New York, New York
+2932,Other,Windsor, Ontario
+2933,Target,Bristol, Virginia
+2934,Domino's Pizza,Maryville, Tennessee
+2935,Sonic,Grove City, Ohio
+2936,Popeyes,Richmond, Virginia
+2937,Little Caesars Pizza,Charlotte, North Carolina
+2938,Other,Haddonfield, New Jersey
+2939,Delta Airlines,Houston, Texas
+2940,Other,Fairport, New York
+2941,Taco Bell,Lynchburg, Virginia
+2942,Buffalo wild wings,Champaign, Illinois
+2943,Applebee's,Federal Way, Washington
+2944,Domino's Pizza,Wahiawa, Hawaii
+2945,Other,Papendrecht, Zuid-Holland
+2946,Whole Foods Market,Exton, Pennsylvania
+2947,Wendy's,Bushnell, Florida
+2948,Subway,Hamilton, Ontario
+2949,McDonalds,Toledo, Ohio
+2950,Other,Singapore, 
+2951,Starbucks,Las Vegas, Nevada
+2952,Jack in the Box,, 
+2953,Chick-Fil-A,Gilbert, Arizona
+2954,Trader Joe's,Santa Clarita, California
+2955,Carl's Jr,West Valley City, Utah
+2956,McDonalds,Tumwater, Washington
+2957,Other,Silver Spring, Maryland
+2958,Chipotle Mexican Grill,Los Angeles, California
+2959,Other,Pittsburgh, Pennsylvania
+2960,Delta Airlines,Honolulu, Hawaii
+2961,Burger King,Ocala, Florida
+2962,Panda Express,Phoenix, Arizona
+2963,Trader Joe's,Burbank, California
+2964,Wawa,Langhorne, Pennsylvania
+2965,Other,Mauldin, South Carolina
+2966,Panera Bread,Knoxville, TN
+2967,Panda Express,Henderson, Nevada
+2968,Arby's,Garland, Texas
+2969,Other,Johnson City, Tennessee
+2970,Panda Express,Renton, Washington
+2971,Other,Little Rock, Arkansas
+2972,Other,Santa Fe, New Mexico
+2973,Popeyes,Fairfax, Virginia
+2974,Shari's,Meridian, Idaho
+2975,Subway,Ormond Beach, Florida
+2976,Costco,Red Deer, Alberta
+2977,Shake Shack,Detroit, Michigan
+2978,Charleys Philly Steaks,Columbus, Ohio
+2979,Wendy's,Greenwood Village, Colorado
+2980,Subway,Hamilton, Ontario
+2981,Long John Silver's,Stillwater, Oklahoma
+2982,A&amp;W,Monroe, Michigan
+2983,Other,Wichita, Kansas
+2984,Whole Foods Market,Jericho, New York
+2985,Burger King,Quincy, Massachusetts
+2986,Other,Rohnert Park, California
+2987,Other,, 
+2988,Subway,Stanhope Gardens, New South Wales
+2989,Sweetgreen,Philadelphia, Pennsylvania
+2990,Applebee's,Baldwin, New York
+2991,Cracker Barrel,Dickson, Tennessee
+2992,Taco Bell,Chandler, Arizona
+2993,Other,, New York
+2994,IHOP,Northglenn, Colorado
+2995,Chipotle Mexican Grill,Hillsboro, Oregon
+2996,Popeyes,Toronto, Ontario
+2997,Domino's Pizza,Louisville, Kentucky
+2998,Chipotle Mexican Grill,Woodbridge, Virginia
+2999,Raising Canes,Glendale, Arizona
+3000,The Cheesecake Factory,Austin, Texas
+3001,Dunkin donuts,Chicago, Illinois
+3002,Chipotle Mexican Grill,Wilmington, North Carolina
+3003,Chick-Fil-A,Irving, Texas
+3004,Costco,Frederick, Maryland
+3005,Zaxby's,Commerce, Georgia
+3006,Domino's Pizza,Kalamazoo, Michigan
+3007,Subway,Mondovi, Wisconsin
+3008,Domino's Pizza,Warrensburg, Missouri
+3009,Other,Ann Arbor, Michigan
+3010,Whataburger,Katy, Texas
+3011,Pret a Manger,Chicago, Illinois
+3012,Dunkin donuts,Smyrna, Georgia
+3013,KFC,, County Limerick
+3014,Subway,London, Ontario
+3015,Bob Evans,Chillicothe, Ohio
+3016,Other,Los Angeles, California
+3017,McDonalds,Bergenfield, New Jersey
+3018,Safeway,Keizer, Oregon
+3019,Costco,Gilbert, Arizona
+3020,Other,Detroit, Michigan
+3021,Arby's,Warner Robins, Georgia
+3022,Wendy's,St. Catharines, Ontario
+3023,Denny's,Orlando, Florida
+3024,KFC,, Scotland
+3025,Other,Cape Town, Western Cape
+3026,Wendy's,Chicago, Illinois
+3027,Qdoba,Creve Coeur, Missouri
+3028,Taco Bell,Kirksville, Missouri
+3029,Popeyes,Pelham, Alabama
+3030,KFC,Marion, Iowa
+3031,Chipotle Mexican Grill,Goleta, California
+3032,Greggs,, England
+3033,Dairy Queen,Wichita, Kansas
+3034,Chipotle Mexican Grill,Seattle, Washington
+3035,Subway,Miami, Florida
+3036,Olive Garden,Pensacola, Florida
+3037,Wendy's,Hadley, Massachusetts
+3038,Other,Fairlawn, Ohio
+3039,KFC,, Vermont
+3040,Subway,Baldwin, Michigan
+3041,Chipotle Mexican Grill,Lake Oswego, Oregon
+3042,Jack in the Box,Modesto, California
+3043,Jack in the Box,Modesto, California
+3044,The Cheesecake Factory,Happy Valley, Oregon
+3045,Buffalo wild wings,Fishers, Indiana
+3046,Starbucks,Denver, Colorado
+3047,Dunkin donuts,Huntersville, North Carolina
+3048,Little Caesars Pizza,Davison, Michigan
+3049,Sonic,Chandler, Oklahoma
+3050,Olive Garden,Vestal, New York
+3051,McDonalds,Fuquay Varina, North Carolina
+3052,McDonalds,Birmingham, Alabama
+3053,Subway,Neenah, Wisconsin
+3054,Other,, England
+3055,McDonalds,Auburndale, Florida
+3056,Five Guys,Cary, North Carolina
+3057,Subway,, England
+3058,McDonalds,Midland, Ontario
+3059,Wendy's,Chula Vista, California
+3060,Little Caesars Pizza,Hutto, Texas
+3061,Chipotle Mexican Grill,West Hartford, Connecticut
+3062,Panda Express,Frisco, Texas
+3063,Domino's Pizza,Stoke-on-Trent, England
+3064,Popeyes,Honolulu, Hawaii
+3065,Raising Canes,Centerville, Ohio
+3066,Yard House,Pasadena, California
+3067,Panda Express,Antioch, California
+3068,Tijuana Flats,Lutz, Florida
+3069,Whole Foods Market,Los Angeles, California
+3070,Other,Tucson, Arizona
+3071,Pizza Hut,Fairburn, GA
+3072,Walmart,South Jordan, Utah
+3073,Qdoba,Louisville, Kentucky
+3074,Chick-Fil-A,Brownsville, Texas
+3075,Costco,Durham, North Carolina
+3076,Other,Punta Cana, La Altagracia
+3077,McDonalds,Cumming, Georgia
+3078,McDonalds,Taylor, Michigan
+3079,Sonic,Winter Haven, Florida
+3080,Burger King,Tarpon Springs, Florida
+3081,McDonalds,Highlands Ranch, Colorado
+3082,McDonalds,Dearborn Heights, Michigan
+3083,Chipotle Mexican Grill,Scottsdale, Arizona
+3084,Other,Milwaukee, Wisconsin
+3085,Taco Bell,Covington, Washington
+3086,Chipotle Mexican Grill,Marysville, Ohio
+3087,Costco,Kansas City, Missouri
+3088,Subway,New Westminster, British Columbia
+3089,Whole Foods Market,Virginia Beach, Virginia
+3090,Chipotle Mexican Grill,Folsom, California
+3091,Burger King,Fresno, California
+3092,Applebee's,La Crosse, Virginia
+3093,Sweet Tomatoes,Bradenton, Florida
+3094,The Melting Pot,Portland, Oregon
+3095,Other,Plano, Texas
+3096,McDonalds,Junction City, Kansas
+3097,Buffalo wild wings,Warrensburg, Missouri
+3098,Taco Bell,Chicago, Illinois
+3099,Chipotle Mexican Grill,New York, New York
+3100,Other,Costa Mesa, California
+3101,Taco Bell,Mishawaka, Indiana
+3102,Taco Bell,Hicksville, New York
+3103,Chipotle Mexican Grill,Dallas, Texas
+3104,Other,Salt Lake City, Utah
+3105,Other,Las Vegas, Nevada
+3106,Arby's,Spring, Texas
+3107,Sonic,Ville Platte, Louisiana
+3108,Chipotle Mexican Grill,Dallas, Texas
+3109,Other,Fort Collins, Colorado
+3110,Chipotle Mexican Grill,Pasadena, California
+3111,Chick-Fil-A,Bryan, Texas
+3112,Papa John's,Kent, Ohio
+3113,Taco Bell,Las Cruces, New Mexico
+3114,McDonalds,Saugerties, New York
+3115,Chipotle Mexican Grill,El Paso, Texas
+3116,Disneyland,Anaheim, California
+3117,Jack in the Box,Corona, California
+3118,Chipotle Mexican Grill,Orlando, Florida
+3119,Taco Bell,Dora, Alabama
+3120,Wendy's,Greenville, Michigan
+3121,Other,Immokalee, Florida
+3122,Chipotle Mexican Grill,Arvada, Colorado
+3123,McDonalds,Tompkinsville, Kentucky
+3124,Little Caesars Pizza,West Jordan, Utah
+3125,Mellow mushroom,Mount Pleasant, South Carolina
+3126,Moe's Southwest grill,Evansville, Indiana
+3127,Wendy's,Rancho Mirage, California
+3128,McDonalds,Denver, Colorado
+3129,Chipotle Mexican Grill,Hopkins, Minnesota
+3130,Chipotle Mexican Grill,Pasadena, California
+3131,Burger King,New York, New York
+3132,Other,Windsor, Ontario
+3133,Target,Bristol, Virginia
+3134,Domino's Pizza,Maryville, Tennessee
+3135,Sonic,Grove City, Ohio
+3136,Popeyes,Richmond, Virginia
+3137,Little Caesars Pizza,Charlotte, North Carolina
+3138,Other,Haddonfield, New Jersey
+3139,Delta Airlines,Houston, Texas
+3140,Other,Fairport, New York
+3141,Taco Bell,Lynchburg, Virginia
+3142,Buffalo wild wings,Champaign, Illinois
+3143,Applebee's,Federal Way, Washington
+3144,Domino's Pizza,Wahiawa, Hawaii
+3145,Other,Papendrecht, Zuid-Holland
+3146,Whole Foods Market,Exton, Pennsylvania
+3147,Wendy's,Bushnell, Florida
+3148,Subway,Hamilton, Ontario
+3149,McDonalds,Toledo, Ohio
+3150,Other,Singapore, 
+3151,Starbucks,Las Vegas, Nevada
+3152,Jack in the Box,, 
+3153,Chick-Fil-A,Gilbert, Arizona
+3154,Trader Joe's,Santa Clarita, California
+3155,Carl's Jr,West Valley City, Utah
+3156,McDonalds,Tumwater, Washington
+3157,Other,Silver Spring, Maryland
+3158,Chipotle Mexican Grill,Los Angeles, California
+3159,Other,Pittsburgh, Pennsylvania
+3160,Delta Airlines,Honolulu, Hawaii
+3161,Burger King,Ocala, Florida
+3162,Panda Express,Phoenix, Arizona
+3163,Trader Joe's,Burbank, California
+3164,Wawa,Langhorne, Pennsylvania
+3165,Other,Mauldin, South Carolina
+3166,Panera Bread,Knoxville, TN
+3167,Panda Express,Henderson, Nevada
+3168,Arby's,Garland, Texas
+3169,Other,Johnson City, Tennessee
+3170,Panda Express,Renton, Washington
+3171,Other,Little Rock, Arkansas
+3172,Other,Santa Fe, New Mexico
+3173,Popeyes,Fairfax, Virginia
+3174,Shari's,Meridian, Idaho
+3175,Subway,Ormond Beach, Florida
+3176,Costco,Red Deer, Alberta
+3177,Shake Shack,Detroit, Michigan
+3178,Charleys Philly Steaks,Columbus, Ohio
+3179,Wendy's,Greenwood Village, Colorado
+3180,Subway,Hamilton, Ontario
+3181,Long John Silver's,Stillwater, Oklahoma
+3182,A&amp;W,Monroe, Michigan
+3183,Other,Wichita, Kansas
+3184,Whole Foods Market,Jericho, New York
+3185,Burger King,Quincy, Massachusetts
+3186,Other,Rohnert Park, California
+3187,Other,, 
+3188,Subway,Stanhope Gardens, New South Wales
+3189,Sweetgreen,Philadelphia, Pennsylvania
+3190,Applebee's,Baldwin, New York
+3191,Cracker Barrel,Dickson, Tennessee
+3192,Taco Bell,Chandler, Arizona
+3193,Other,, New York
+3194,IHOP,Northglenn, Colorado
+3195,Chipotle Mexican Grill,Hillsboro, Oregon
+3196,Popeyes,Toronto, Ontario
+3197,Domino's Pizza,Louisville, Kentucky
+3198,Chipotle Mexican Grill,Woodbridge, Virginia
+3199,Raising Canes,Glendale, Arizona
